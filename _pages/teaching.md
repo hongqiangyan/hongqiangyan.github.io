@@ -12,10 +12,12 @@ Graduate Teaching Assistant,Department of Economics, NC State University
 ======
 
 * Fundamentals of Microeconomics (Graduate),Fall 2020, 2021, 2022 
-** mathematics camp and  review session
+
+  mathematics camp and  review session
 
 * Applied Econometrics I (Graduate) Fall 2018, 2020, 2021 
-** with review session
+
+  review session
 
 * Introduction to Commodity Futures Markets (Undergraduate \& Graduate)Fall 2022
 
