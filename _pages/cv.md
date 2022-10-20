@@ -27,7 +27,7 @@ Presentations
 
 Dissertation Committee
 ======
-* [Professor. Mehmet Caner(chair)](https://poole.ncsu.edu/people/mehmet-caner/) Email: mcaner@ncsu.edu
+* [Professor. Mehmet Caner](https://poole.ncsu.edu/people/mehmet-caner/)(chair) Email: mcaner@ncsu.edu
 * [Professor. Barry Goodwin](https://cals.ncsu.edu/agricultural-and-resource-economics/people/bkgoodwi/)  Email: bkgoodwi@ncsu.edu
 * [Professor. Zheng Li](https://cals.ncsu.edu/agricultural-and-resource-economics/people/zli42/) Email: zli42@ncsu.edu
 * [Professor. Ilze Kalnina](https://poole.ncsu.edu/people/ikalnin/) Email: ikalnin@ncsu.edu
