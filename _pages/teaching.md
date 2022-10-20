@@ -29,4 +29,4 @@ Graduate Teaching Assistant
 
 * Public Finance (Undergraduate) Spring 2019
 
-**Department of Economics, NC State University**
+**Department of Economics/Department of Agricultural and Resource Economics, NC State University**
