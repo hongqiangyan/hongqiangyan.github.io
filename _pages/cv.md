@@ -16,7 +16,9 @@ Education
 * M.S. in Economics, Texas A&M University,2018
 * B.S. in Finance, Beijing Jiaotong University, 2016
   
-
+Field of Interest
+======
+Econometric Theory, Applied Econometrics
 
 Presentations
 ======
