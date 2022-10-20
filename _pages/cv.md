@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+https://hongqiangyan/github.io/files/Hongqiang_Yan_CV.pdf
 {% include base_path %}
 
 Education
