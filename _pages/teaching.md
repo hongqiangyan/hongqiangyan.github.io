@@ -8,52 +8,22 @@ redirect_from:
 ---
 {% include base_path %}
 
-[CV Download](https://hongqiangyan.github.io/files/Hongqiang_Yan_CV.pdf)
-
-Education
+Graduate Teaching Assistant,Department of Economics, NC State University
 ======
 
-* Ph.D in Economics, North Carolina State University, 2023 (expected)
-* M.S. in Economics, Texas A&M University, 2018
-* B.S. in Finance, Beijing Jiaotong University, 2016
-  
-Field of Interest
-======
-Econometric Theory, Applied Econometrics
+* Fundamentals of Microeconomics (Graduate),Fall 2020, 2021, 2022 
+** mathematics camp and  review session
 
-Presentations
-======
-* Midwest Econometrics Group Conference East Lansing, MI, Oct, 2022(scheduled)
+* Applied Econometrics I (Graduate) Fall 2018, 2020, 2021 
+** with review session
 
+* Introduction to Commodity Futures Markets (Undergraduate \& Graduate)Fall 2022
 
-Dissertation Committee
-======
-* [Professor. Mehmet Caner](https://poole.ncsu.edu/people/mehmet-caner/)(chair) Email: mcaner@ncsu.edu
-* [Professor. Barry Goodwin](https://cals.ncsu.edu/agricultural-and-resource-economics/people/bkgoodwi/)  Email: bkgoodwi@ncsu.edu
-* [Professor. Zheng Li](https://cals.ncsu.edu/agricultural-and-resource-economics/people/zli42/) Email: zli42@ncsu.edu
-* [Professor. Ilze Kalnina](https://poole.ncsu.edu/people/ikalnin/) Email: ikalnin@ncsu.edu
-  
+* Microeconomic II (Doctoral)Spring 2020
 
-Honors and Awards
-======
-* Graduate Economics Conference Travel Grant North Carolina State University, 2022
-* Graduate Economics Scholarship North Carolina State University, 2018
-* Graduate Economics General Scholarship Texas A&M University, 2016-2018
-* First Class Scholarship Beijing Jiaotong University, 2014-2015
+* Introduction to Econometric Methods (Graduate)Spring 2020
 
-Skills
-======
-* R
-* Python
-* Matlab
-* SAS Certified Advanced Programmer 
-* Stata
-* LaTeX
- 
-Languages
-======
-* English (fluent)
-* Mandarin Chinese (native）
+* Principles of Microeconomics (Undergraduate) Spring 2022, Fall 2019
 
-
+* Public Finance (Undergraduate) Spring 2019
 
