@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 
-* Ph.D in Economics, North Carolina State University, Raleigh NC, 2023 (expected)
-* M.S. in Economics, Texas A&M University,2018
+* Ph.D in Economics, North Carolina State University, 2023 (expected)
+* M.S. in Economics, Texas A&M University, 2018
 * B.S. in Finance, Beijing Jiaotong University, 2016
   
 Field of Interest
