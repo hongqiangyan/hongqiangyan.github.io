@@ -15,7 +15,8 @@ Working Papers
 * [__"Uniform Inference for High-dimensional Threshold Regression"__](https://hongqiangyan.github.io/files/Uniform_Inference_in_High_Dimensional_Threshold_Regression_Models.pdf)  (Job Market Paper)
 
 In this paper, we study the scaled Lasso estimator of Lee et al. (2016) for high-dimensional threshold regression models and show how it may be desparsified in the sense of van de Geer et al. (2014) in order to construct asymptotically honest (uniform) confidence intervals. We establish oracle inequalities for the scaled Lasso only assuming non-subgaussian error terms and covariates. Next, we desparsify the scaled Lasso estimator and show how one can conduct uniformly valid inference on the slope parameters of the model and construct a uniformly valid estimator of the asymptotic covariance matrix. We illustrate the usefulness of our proposed estimation procedure via Monte Carlo simulations
-[supplementary material](https://github.com/hongqiangyan/desparsified_Lasso_threshold_reg)
+
+[Supplementary Material](https://github.com/hongqiangyan/desparsified_Lasso_threshold_reg)
 
 
 Working in progress
