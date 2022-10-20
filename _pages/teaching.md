@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-Graduate Teaching Assistant,Department of Economics, NC State University
+Graduate Teaching Assistant
 ======
 
 * Fundamentals of Microeconomics (Graduate),Fall 2020, 2021, 2022 
@@ -29,3 +29,4 @@ Graduate Teaching Assistant,Department of Economics, NC State University
 
 * Public Finance (Undergraduate) Spring 2019
 
+**Department of Economics, NC State University**
