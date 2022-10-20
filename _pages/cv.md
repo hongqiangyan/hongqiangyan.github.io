@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
+
 https://hongqiangyan.github.io/files/Hongqiang_Yan_CV.pdf
+
 Education
 ======
 
