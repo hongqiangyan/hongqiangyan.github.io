@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,3 +9,10 @@ redirect_from:
 ---
 
 This is [Hongqiang](https://cals.ncsu.edu/agricultural-and-resource-economics/people/hyan6/)'s persional website!
+I am a 5th year phd candidate in economics at North carolina State University. My field of specialization is econometrics and research interests in  high-dimensional statistical inference. I am especially inrerested in a high-dimensional regression model with a possible changepoint due to a covariate threshold. In my job market paper,  I develop a desparsified Lasso estimator for the threshold regression in the high-dimensional regime  in order to construct asymptotically uniform confidence intervals for the parameters of interest and hypothesis tests under a sparse setting. 
+
+I am on the job market for 2022-2023 acaademic year.
+
+Fiels: Econometric Theory, Applied Econometrics
+Contact:
+email:hyan6@ncsu.edu
