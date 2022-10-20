@@ -13,6 +13,7 @@ I am a 5th year phd candidate in economics at North carolina State University. M
 
 I am on the job market for 2022-2023 acaademic year.
 
-Fiels: Econometric Theory, Applied Econometrics
-Contact:
-email:hyan6@ncsu.edu
+======
+** Fiels: Econometric Theory, Applied Econometrics
+** Contact Email:hyan6@ncsu.edu
+
