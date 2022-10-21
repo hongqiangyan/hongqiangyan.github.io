@@ -13,9 +13,9 @@ redirect_from:
 Education
 ======
 
-* Ph.D in Economics, North Carolina State University, in progress
-* M.S. in Economics, Texas A&M University, 2018
-* B.S. in Finance, Beijing Jiaotong University, 2016
+* Ph.D in Economics, North Carolina State University, 2018-present
+* M.S. in Economics, Texas A&M University, 2016-2018
+* B.S. in Finance, Beijing Jiaotong University, 2012-2016
   
 Field of Interest
 ======
