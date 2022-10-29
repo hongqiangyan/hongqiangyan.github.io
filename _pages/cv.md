@@ -23,7 +23,7 @@ Econometric Theory, Applied Econometrics
 
 Presentations
 ======
-* Midwest Econometrics Group Conference East Lansing, MI, Oct, 2022(scheduled)
+* Midwest Econometrics Group Conference East Lansing, MI, Oct, 2022
 
 
 Dissertation Committee
