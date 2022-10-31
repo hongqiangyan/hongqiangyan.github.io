@@ -15,6 +15,6 @@ I am a Ph.D. Candidate in Economics at [North Carolina State University](https:/
 
 
 
-## Fiels: Econometric Theory, Applied Econometrics
+## Fiels: Econometrics, Applied Econometrics, Agricultural Economics
 ## Contact Email: hyan6@ncsu.edu
 
