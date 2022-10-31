@@ -36,7 +36,7 @@ Dissertation Committee
 
 Honors and Awards
 ======
-* Graduate Economics Conference Travel Grant, North Carolina State University, 2022
+* Economics Graduate Conference Travel Grant, North Carolina State University, 2022
 * Toussaint Scholarship, North Carolina State University, 2021-2022
 * Owens Graduate Fellowship, North Carolina State University, 2019-2020
 * Economics Graduate General Scholarship, North Carolina State University, 2018-2019
