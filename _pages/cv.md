@@ -39,8 +39,8 @@ Honors and Awards
 * Economics Graduate Conference Travel Grant, North Carolina State University, 2022
 * Toussaint Scholarship, North Carolina State University, 2021-2022
 * Owens Graduate Fellowship, North Carolina State University, 2019-2020
-* Economics Graduate General Scholarship, North Carolina State University, 2018-2019
-* Graduate Economics General Scholarship, Texas A&M University, 2016-2018
+* Economics Graduate PCOM Scholarship North Carolina State University, 2018-2019
+* Economics Graduate Scholarship Texas A&M University, 2016-2018
 * First Class Scholarship, Beijing Jiaotong University, 2015-2016
 
 Skills
