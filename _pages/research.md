@@ -29,4 +29,5 @@ We develop threshold regression models of price linkages in spatially distinct r
 
 This paper proposes a nonparametric approach for the estimation of individual producers’ risk preferences and risk premiums when they face uncertainty in both production and price. We allow for the endogenous production inputs within the production function. The framework is proposed for deriving the risk premium function under the expected utility of profit maximization. The econometric model accommodates production risk, price risk, and producer heterogeneity simultaneously. This is done by the series method in the presence of instrumental variables. We illustrate the usefulness of our proposed non-parametric procedure via Monte Carlo simulations.
 
-* __"Uniform Inference in High-dimensional Dynamic Panel Data Models with Threshold Effect"__
+* __"Uniform Inference in High-dimensional Dynamic Panel Data Models with Threshold Effect and Endogeneity"__
+* __"Uniform Inference in High-dimensional Panel Data Models With Approximate Sparse Two-dimensional Heterogeneity"__
