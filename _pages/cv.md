@@ -13,17 +13,17 @@ redirect_from:
 Education
 ======
 
-* Ph.D in Economics, North Carolina State University, 2018-present
+* Ph.D. in Economics, North Carolina State University, 2018-present
 * M.S. in Economics, Texas A&M University, 2016-2018
 * B.S. in Finance, Beijing Jiaotong University, 2012-2016
   
 Field of Interest
 ======
-Econometric Theory, Applied Econometrics
+Econometric, Applied Econometrics, Agricultural Economics
 
 Presentations
 ======
-* Midwest Econometrics Group Conference East Lansing, MI, Oct, 2022
+* Midwest Econometrics Group Conference East Lansing, MI, Oct 2022
 
 
 Dissertation Committee
@@ -36,8 +36,9 @@ Dissertation Committee
 
 Honors and Awards
 ======
-* Economics Graduate Conference Travel Grant, North Carolina State University, 2022
-* Toussaint Scholarship, North Carolina State University, 2021-2022
+* Jenkins Fellowship, North Carolina State University, 2023-2024
+* Goodnight Doctoral Fellowship, North Carolina State University, 2022-2023
+* Toussaint Scholarship North Carolina State University, 2021-2022
 * Owens Graduate Fellowship, North Carolina State University, 2019-2020
 * Economics Graduate PCOM Scholarship North Carolina State University, 2018-2019
 * Economics Graduate Scholarship Texas A&M University, 2016-2018
