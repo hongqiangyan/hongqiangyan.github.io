@@ -19,7 +19,7 @@ In this paper, we study the scaled Lasso estimator of Lee et al. (2016) for high
 [Supplementary Material](https://github.com/hongqiangyan/desparsified_Lasso_threshold_reg)
 
 * [__"Investigating Integration and Exchange Rate Pass-Through in World Maize Markets Using
-Inferential LASSO Methods"____ with Barry Goodwin](https://hongqiangyan.github.io/files/Uniform_Inference_in_High_Dimensional_Threshold_Regression_Models.pdf)
+Inferential LASSO Methods"__] with Barry Goodwin(https://hongqiangyan.github.io/files/Uniform_Inference_in_High_Dimensional_Threshold_Regression_Models.pdf)
 
 This paper investigates the extent of market integration in the world markets for maize. To address the shortcomings of existing models on spatial market integration, we adopt an approach towards inference and model selection using the desparsified LASSO method for high-dimensional threshold regression. Our results support the integration of global corn markets, especially when the existence of thresholds is accounted for. We identify important relationships between several variables representing domestic and world economic conditions.
 
