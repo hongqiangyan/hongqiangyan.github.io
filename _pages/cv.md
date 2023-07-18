@@ -23,15 +23,17 @@ Econometric, Applied Econometrics, Agricultural Economics
 
 Presentations
 ======
+* AAEA Annual Meeting Washington, DC, July 2023(scheduled)
+* NC State University Graduate Student Research Symposium Raleigh, NC, Apr 2023
 * Midwest Econometrics Group Conference East Lansing, MI, Oct 2022
 
 
 Dissertation Committee
 ======
-* [Professor. Mehmet Caner](https://poole.ncsu.edu/people/mehmet-caner/)(chair) Email: mcaner@ncsu.edu
-* [Professor. Barry Goodwin](https://cals.ncsu.edu/agricultural-and-resource-economics/people/bkgoodwi/)  Email: bkgoodwi@ncsu.edu
-* [Professor. Zheng Li](https://cals.ncsu.edu/agricultural-and-resource-economics/people/zli42/) Email: zli42@ncsu.edu
-* [Professor. Ilze Kalnina](https://poole.ncsu.edu/people/ikalnin/) Email: ikalnin@ncsu.edu
+* [Mehmet Caner](https://poole.ncsu.edu/people/mehmet-caner/)(chair) Email: mcaner@ncsu.edu
+* [Barry Goodwin](https://cals.ncsu.edu/agricultural-and-resource-economics/people/bkgoodwi/)  Email: bkgoodwi@ncsu.edu
+* [Zheng Li](https://cals.ncsu.edu/agricultural-and-resource-economics/people/zli42/) Email: zli42@ncsu.edu
+* [Ilze Kalnina](https://poole.ncsu.edu/people/ikalnin/) Email: ikalnin@ncsu.edu
   
 
 Honors and Awards
