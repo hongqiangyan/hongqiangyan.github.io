@@ -7,6 +7,12 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
+Independent Instructor
+======
+**Department of Economics, NC State University**
+
+* Principles of Microeconomics (Undergraduate) Spring 2023
+
 
 Graduate Teaching Assistant
 ======
