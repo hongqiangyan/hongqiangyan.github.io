@@ -11,10 +11,11 @@ redirect_from:
 
 This is Hongqiang's personal website! 
 
-I am a Ph.D. Candidate in Economics at [North Carolina State University](https://cals.ncsu.edu/agricultural-and-resource-economics/people/hyan6/). My field of specialization is econometrics and my research activities are focused on high-dimensional statistical inference. I am especially interested in a high-dimensional regression model with a possible change point due to a covariate threshold. In my working paper, I develop a desparsified Lasso estimator for the threshold regression in the high-dimensional regime in order to construct asymptotically uniform confidence intervals for the parameters of interest and hypothesis tests under a sparse setting.
+I am a Ph.D. candidate in Economics at [North Carolina State University](https://cals.ncsu.edu/agricultural-and-resource-economics/people/hyan6/), specializing in econometrics and agricultural economics. My research focuses on on high-dimensional statistical inference. In my working paper, I propose a desparsified Lasso estimation procedure for high-dimensional threshold regression. In addition to my theoretical work, I also utilize the high-dimensional threshold regression model on integration and exchange rate pass-through in world maize markets. 
 
 
 
-## Fiels: Econometrics, Applied Econometrics, Agricultural Economics
+
+## Fields: Econometrics, Applied Econometrics, Agricultural Economics
 ## Contact Email: hyan6@ncsu.edu
 
