@@ -21,8 +21,8 @@ Please feel free to reach me at  hyan6@ncsu.edu
  
  
 ## RESEARCH FIELDS
- * Econometrics, 
- * Applied Econometrics,
+ * Econometrics
+ * Applied Econometrics
  * Agricultural Economics
 
 ## WORKING PAPER
