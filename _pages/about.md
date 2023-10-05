@@ -31,9 +31,5 @@ Please feel free to reach me at  hyan6@ncsu.edu
 * Nonparametric Estimation of Risk Preferences
 ## WORKING IN PROGRESS
 Paper Title (with co-authors)
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+* Effects of Soil Erosion on Mean Yield and Yield Risk, with Roderick Rejesus, Serkan Aglasan, & Zheng Li
+* Uniform Inference in High-dimensional Random Coefficient Panel Data Models
