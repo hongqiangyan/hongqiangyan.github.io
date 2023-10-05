@@ -29,6 +29,7 @@ Please feel free to reach me at  hyan6@ncsu.edu
   * Uniform Inference in High Dimensional Threshold Regression Models
 * Investigating Integration and Exchange Rate Pass-Through in World Maize Markets Using Inferential LASSO Methods, with Barry Goodwin \& Mehmet Caner
 * Nonparametric Estimation of Risk Preferences, with Xiaoyong Zheng \& Zheng Li
+  
 ## WORKING IN PROGRESS
 * Effects of Soil Erosion on Mean Yield and Yield Risk, with Roderick Rejesus, Serkan Aglasan, & Zheng Li
 * Uniform Inference in High-dimensional Random Coefficient Panel Data Models
