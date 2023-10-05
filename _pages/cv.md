@@ -19,7 +19,7 @@ Education
   
 Field of Interest
 ======
-Econometric, Applied Econometrics, Agricultural Economics
+Econometrics, Applied Econometrics, Agricultural Economics
 
 Presentations
 ======
