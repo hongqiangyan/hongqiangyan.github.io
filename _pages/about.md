@@ -27,8 +27,8 @@ Please feel free to reach me at  hyan6@ncsu.edu
 
 ## WORKING PAPER
   * Uniform Inference in High Dimensional Threshold Regression Models
-* Investigating Integration and Exchange Rate Pass-Through in World Maize Markets Using Inferential LASSO Methods, with Barry Goodwin \& Zheng Li
-* Nonparametric Estimation of Risk Preferences
+* Investigating Integration and Exchange Rate Pass-Through in World Maize Markets Using Inferential LASSO Methods, with Barry Goodwin \& Mehmet Caner
+* Nonparametric Estimation of Risk Preferences, with Xiaoyong Zheng \& Zheng Li
 ## WORKING IN PROGRESS
 Paper Title (with co-authors)
 * Effects of Soil Erosion on Mean Yield and Yield Risk, with Roderick Rejesus, Serkan Aglasan, & Zheng Li
