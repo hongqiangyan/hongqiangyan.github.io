@@ -26,8 +26,9 @@ Please feel free to reach me at  hyan6@ncsu.edu
  * Agricultural Economics
 
 ## WORKING PAPER
-Paper Title
-(with co-authors)
+  * Uniform Inference in High Dimensional Threshold Regression Models
+* Investigating Integration and Exchange Rate Pass-Through in World Maize Markets Using Inferential LASSO Methods
+* Nonparametric Estimation of Risk Preferences
 ## WORKING IN PROGRESS
 Paper Title (with co-authors)
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
