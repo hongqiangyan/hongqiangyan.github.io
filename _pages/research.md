@@ -18,8 +18,7 @@ This paper addresses statistical inference for high-dimensional threshold regres
 
 [Supplementary Material](https://github.com/hongqiangyan/desparsified_Lasso_threshold_reg)
 
-* [__"Investigating Integration and Exchange Rate Pass-Through in World Maize Markets Using
-Inferential LASSO Methods"__](https://hongqiangyan.github.io/files/Yan_Goodwin_Caner_Integration _World_Maize_Markets.pdf)  with Barry Goodwin and Mehmet Caner
+* [__"Investigating Integration and Exchange Rate Pass-Through in World Maize Markets Using Post-Selection Inference"__](https://hongqiangyan.github.io/files/Yan_Goodwin_Caner_Integration _World_Maize_Markets.pdf)  with Barry Goodwin and Mehmet Caner
 
 This paper investigates the extent of market integration in the world markets for maize. To address the shortcomings of existing models on spatial market integration, we adopt an approach towards inference and model selection using the desparsified LASSO method for high-dimensional threshold regression. Our results support the integration of global corn markets, especially when the existence of thresholds is accounted for. We identify important relationships between several variables representing domestic and world economic conditions.
 
