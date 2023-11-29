@@ -32,5 +32,5 @@ This paper proposes a nonparametric approach for the estimation of individual pr
 
 * __"Effects of Soil Erosion on Mean Yield and Production Risk"__ with  Roderick Rejesus, Serkan Aglasan, and Zheng Li
 * __"Uniform Inference in High-dimensional Dynamic Panel Data Models with Threshold Effect"__
-* __"Uniform Inference in High-dimensional Random Coefficient Panel Data Models"__
+* __"Post-Selection Inference in Panel Data Models with Multiple Structural Changes"__
 
