@@ -17,7 +17,7 @@ Please feel free to reach me at  hyan6@ncsu.edu
 
 ## EDUCATION
 * Ph.D. in Economics, NC State University, 2018-2024(expected)
-  * Advisors: Prof. Mehmet Caner
+  * Advisor: Prof. Mehmet Caner
  
  
 ## RESEARCH FIELDS
