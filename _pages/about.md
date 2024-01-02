@@ -26,10 +26,12 @@ Please feel free to reach me at  hyan6@ncsu.edu
  * Agricultural Economics
 
 ## WORKING PAPER
-  * Uniform Inference in High Dimensional Threshold Regression Models
-* Investigating Integration and Exchange Rate Pass-Through in World Maize Markets Using Post-Selection Inference, with Barry Goodwin, & Mehmet Caner
-* Nonparametric Estimation of Risk Preferences, with Xiaoyong Zheng, & Zheng Li
+ * [__"Uniform Inference In High-dimensional Threshold Regression"__](https://hongqiangyan.github.io/files/Hongqiang_YAN_JMP_Inference_in_High_Dimensional_Threshold.pdf)
+* [__"Investigating Integration and Exchange Rate Pass-Through in World Maize Markets Using Post-Selection Inference"__](https://hongqiangyan.github.io/files/Yan_Goodwin_Caner_Integration_World_Maize_Markets.pdf)  with Barry Goodwin and Mehmet Caner
+
   
 ## WORKING IN PROGRESS
-* Effects of Soil Erosion on Mean Yield and Yield Risk, with Roderick Rejesus, Serkan Aglasan, & Zheng Li
-* Uniform Inference in High-dimensional Random Coefficient Panel Data Models
+* __"Non-parametric Estimation of Risk Preferences"__ with Xiaoyong Zheng and Zheng Li
+* __"Effects of Soil Erosion on Mean Yield and Production Risk"__ with  Roderick Rejesus, Serkan Aglasan, and Zheng Li
+* __"Post-Selection Inference in Panel Data Models with Multiple Structural Changes"__
+
