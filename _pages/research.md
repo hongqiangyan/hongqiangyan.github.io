@@ -25,7 +25,6 @@ This paper investigates the extent of market integration and exchange rate pass-
 Working in progress
 ======
 
-* __"Non-parametric Estimation of Risk Preferences"__ with Xiaoyong Zheng and Zheng Li
 * __"Effects of Soil Erosion on Mean Yield and Production Risk"__ with  Roderick Rejesus, Serkan Aglasan, and Zheng Li
 * __"Post-Selection Inference in Panel Data Models with Multiple Structural Changes"__
-
+* __"Non-parametric Estimation of Risk Preferences"__ with Xiaoyong Zheng and Zheng Li
