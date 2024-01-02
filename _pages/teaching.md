@@ -12,6 +12,7 @@ Independent Instructor
 **Department of Economics, NC State University**
 * Principles of Microeconomics: Spring 2023
 * [__"Evidence of Teaching Effectiveness"__](https://hongqiangyan.github.io/files/Hongqiang_Students_Comments.pdf)
+
 Graduate Teaching Assistant
 ======
 **Department of Economics/Department of Agricultural and Resource Economics, NC State University**
