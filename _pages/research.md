@@ -26,5 +26,4 @@ Working in progress
 ======
 
 * __"Effects of Soil Erosion on Mean Yield and Production Risk"__ with  Roderick Rejesus, Serkan Aglasan, and Zheng Li
-* __"Post-Selection Inference in Panel Data Models with Multiple Structural Changes"__
 * __"Non-parametric Estimation of Risk Preferences"__ with Xiaoyong Zheng and Zheng Li
