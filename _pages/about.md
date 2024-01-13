@@ -26,7 +26,7 @@ Please don’t hesitate to reach out:  hyan6 [atsign] ncsu dot edu
  * Agricultural Economics
 
 ## WORKING PAPER
- * [__"Uniform Inference In High-dimensional Threshold Regression"__](https://hongqiangyan.github.io/files/Hongqiang_YAN_JMP_Inference_in_High_Dimensional_Threshold.pdf)
+ * [__"Uniform Inference In High-dimensional Threshold Regression"__](https://hongqiangyan.github.io/files/Hongqiang_YAN_JMP.pdf)
 * [__"Investigating Integration and Exchange Rate Pass-Through in World Maize Markets Using Post-Selection Inference"__](https://hongqiangyan.github.io/files/Yan_Goodwin_Caner_Integration_World_Maize_Markets.pdf)  with Barry Goodwin and Mehmet Caner
 
   
