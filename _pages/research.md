@@ -12,7 +12,7 @@ redirect_from:
 Working Papers
 ======
 
-* [__"Uniform Inference In High-dimensional Threshold Regression"__](https://hongqiangyan.github.io/files/Hongqiang_YAN_JMP_Inference_in_High_Dimensional_Threshold.pdf)
+* [__"Uniform Inference In High-dimensional Threshold Regression"__](https://hongqiangyan.github.io/files/Hongqiang_YAN_JMP.pdf)
 
 This paper addresses statistical inference for high-dimensional threshold regression parameters. I establish oracle inequalities for the scaled Lasso estimator proposed by Lee, Seo, and Shin, assuming only non-subgaussian error terms and covariates. Subsequently, I desparsify (or debias) the scaled Lasso estimator and derive the asymptotic distribution of tests involving an increasing number of slope parameters in the sense of van de Geer et al. (2014). Utilizing these results, I construct asymptotically valid confidence intervals for the components of the threshold regression slope coefficients. To complement the asymptotic theory in this paper, I conduct simulation studies to demonstrate the performance of our method in finite samples.
 
