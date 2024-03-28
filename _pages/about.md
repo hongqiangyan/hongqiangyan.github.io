@@ -9,8 +9,8 @@ redirect_from:
 ---
 {% include base_path %}
 Hi, my name is Hongqiang Yan (严宏强), and I'm currently a Postdoctoral Scholar at The Morrison School of Agribusiness at the W. P. Carey School of Business,Arizona State University(ASU) .
-Before joining ASU, I received the Ph.D. degree in Economics from nORTH CAROLINA University.
-Please don’t hesitate to reach out:  hyan6 [atsign] ncsu dot edu
+Before joining ASU, I received the Ph.D. degree in Economics from North Carolina State University.
+Please don’t hesitate to reach out:  hongqiang.yan [atsign] asu dot edu
 
 
 
