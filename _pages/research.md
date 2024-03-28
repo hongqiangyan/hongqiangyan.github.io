@@ -25,5 +25,5 @@ This paper investigates the extent of market integration and exchange rate pass-
 Working in progress
 ======
 
-* __"Effects of Soil Erosion on Mean Yield and Production Risk"__ with  Roderick Rejesus, Serkan Aglasan, and Zheng Li
+* __"Estimating the Impact of Soil Erosion on Mean Yield and Yield Risk: Evidence from US County-Level Data"__ with  Roderick Rejesus, Le Chen, and Serkan Aglasan
 * __"Non-parametric Estimation of Risk Preferences"__ with Xiaoyong Zheng and Zheng Li
