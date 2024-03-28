@@ -27,3 +27,4 @@ Working in progress
 
 * __"Estimating the Impact of Soil Erosion on Mean Yield and Yield Risk: Evidence from US County-Level Data"__ with  Roderick Rejesus, Le Chen, and Serkan Aglasan
 * __"Non-parametric Estimation of Risk Preferences"__ with Xiaoyong Zheng and Zheng Li
+* __"Data-Driven Estimates of Structural Change in the Demand for Multiple Peril Crop Insurance"__ wirh Barry Goodwin
