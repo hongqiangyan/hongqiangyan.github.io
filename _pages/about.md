@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Personal Website of Hongqiang Yan"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,28 +8,26 @@ redirect_from:
   - /about.html
 ---
 {% include base_path %}
-I am a Ph.D. Candidate in Economics at NC State University.
-I will be on the job market in the 2023-2024 academic year.
-
+Hi, my name is Hongqiang Yan (严宏强), and I'm currently a Postdoctoral Scholar at The Morrison School of Agribusiness at the W. P. Carey School of Business,Arizona State University(ASU) .
+Before joining ASU, I received the Ph.D. degree in Economics from nORTH CAROLINA University.
 Please don’t hesitate to reach out:  hyan6 [atsign] ncsu dot edu
 
 
 
 ## EDUCATION
-* Ph.D. in Economics, NC State University, 2018-2024(expected)
-  * Advisor: Prof. Mehmet Caner
+* Ph.D. in Economics, NC State University, 2018-2024
  
- 
-## RESEARCH FIELDS
- * Econometrics
+## RESEARCH INTERESTS
  * Applied Econometrics
  * Agricultural Economics
-
+ * Econometrics
+   
 ## WORKING PAPER
  * [__"Uniform Inference In High-dimensional Threshold Regression"__](https://hongqiangyan.github.io/files/Hongqiang_YAN_JMP.pdf)
 * [__"Investigating Integration and Exchange Rate Pass-Through in World Maize Markets Using Post-Selection Inference"__](https://hongqiangyan.github.io/files/Yan_Goodwin_Caner_Integration_World_Maize_Markets.pdf)  with Barry Goodwin and Mehmet Caner
 
   
 ## WORKING IN PROGRESS
-* __"Effects of Soil Erosion on Mean Yield and Production Risk"__ with  Roderick Rejesus, Serkan Aglasan, and Zheng Li
+* __"Effects of Soil Erosion on Mean Yield and Production Risk"__ with  Roderick Rejesus, Le Chen, and Serkan Aglasan
 * __"Non-parametric Estimation of Risk Preferences"__ with Xiaoyong Zheng and Zheng Li
+* __"Data-Driven Estimates of Structural Change in the Demand for Multiple Peril Crop Insurance"__ wirh Barry Goodwin
