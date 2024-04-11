@@ -10,8 +10,7 @@ locale                   : "en-US"
 title                    : "Hongqiang Yan"
 title_separator          : "-"
 name                     : &name "Hongqiang Yan"
-description              : &description "Ph.D. Candidate in Economics. 
-"
+description              : &description "Postdoctoral Scholars"
 url                      : https://hongqiangyan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hongqiangyan/hongqiangyan.github.io"
@@ -83,8 +82,9 @@ analytics:
 author:
   name             : "Hongqiang Yan"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate in Economics"
-  location         : " North Carolina University, Raleigh, NC"
+  bio              : "Postdoctoral Scholars"
+  location         : " Morrison School of Agribusiness\\
+  Arizona State University | W. P. Carey School of Business"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
