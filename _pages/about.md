@@ -9,7 +9,7 @@ redirect_from:
 ---
 {% include base_path %}
 Hi, my name is Hongqiang Yan (严宏强), and I am currently a Postdoctoral Scholar at The Morrison School of Agribusiness, W. P. Carey School of Business, Arizona State University (ASU).  
-Please feel free to reach out to me at **hongqiang.yan [atsign] asu dot edu**.
+Please feel free to reach out to me at **hongqiang dot yan [atsign] asu dot edu**.
 
 
 ## EDUCATION
