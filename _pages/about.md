@@ -21,7 +21,7 @@ Please feel free to reach out to me at **hongqiang dot yan [atsign] asu dot edu*
  * Econometrics
    
 ## WORKING PAPER
- * [__"Uniform Inference In High-dimensional Threshold Regression"__](https://hongqiangyan.github.io/files/Hongqiang_YAN_JMP.pdf)
+ * [__"Uniform Inference In High-dimensional Threshold Regression"__]([https://arxiv.org/abs/2404.08105]) with Jiatong Li
 * [__"Investigating Integration and Exchange Rate Pass-Through in World Maize Markets Using Post-Selection Inference"__](https://hongqiangyan.github.io/files/Yan_Goodwin_Caner_Integration_World_Maize_Markets.pdf)  with Barry Goodwin and Mehmet Caner
 
   
