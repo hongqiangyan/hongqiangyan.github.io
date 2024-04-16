@@ -12,9 +12,9 @@ redirect_from:
 Working Papers
 ======
 
-* [__"Uniform Inference In High-dimensional Threshold Regression"__](https://hongqiangyan.github.io/files/Hongqiang_YAN_JMP.pdf)
+* [__"Uniform Inference In High-dimensional Threshold Regression"__]([https://arxiv.org/abs/2404.08105]) with Jiatong Li
 
-This paper addresses statistical inference for high-dimensional threshold regression parameters. I establish oracle inequalities for the scaled Lasso estimator proposed by Lee, Seo, and Shin, assuming only non-subgaussian error terms and covariates. Subsequently, I desparsify (or debias) the scaled Lasso estimator and derive the asymptotic distribution of tests involving an increasing number of slope parameters in the sense of van de Geer et al. (2014). Utilizing these results, I construct asymptotically valid confidence intervals for the components of the threshold regression slope coefficients. To complement the asymptotic theory in this paper, I conduct simulation studies to demonstrate the performance of our method in finite samples.
+We develop uniform inference for high-dimensional threshold regression parameters and valid inference for the threshold parameter in this paper. We first establish oracle inequalities for prediction errors and ℓ1 estimation errors for the Lasso estimator of the slope parameters and the threshold parameter, allowing for heteroskedastic non-subgaussian error terms and non-subgaussian covariates. Next, we derive the asymptotic distribution of tests involving an increasing number of slope parameters by debiasing (or desparsifying) the scaled Lasso estimator. The asymptotic distribution of tests without the threshold effect is identical to that with a fixed effect. Moreover, we perform valid inference for the threshold parameter using subsampling method. Finally, we conduct simulation studies to demonstrate the performance of our method in finite samples.
 
 [Supplementary Material](https://github.com/hongqiangyan/desparsified_Lasso_threshold_reg)
 
