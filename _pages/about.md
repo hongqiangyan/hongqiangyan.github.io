@@ -23,9 +23,9 @@ Please feel free to reach out to me at **hongqiang dot yan [atsign] asu dot edu*
 ## WORKING PAPER
  * [__"Uniform Inference In High-dimensional Threshold Regression"__](https://arxiv.org/abs/2404.08105) with Jiatong Li
 * [__"Investigating Integration and Exchange Rate Pass-Through in World Maize Markets Using Post-Selection Inference"__](https://hongqiangyan.github.io/files/Yan_Goodwin_Caner_Integration_World_Maize_Markets.pdf)  with Barry Goodwin and Mehmet Caner
+* [__"Investigating Integration and Exchange Rate Pass-Through in World Maize Markets Using Post-Selection Inference"__](https://ageconsearch.umn.edu/record/343580?ln=en&v=pdf) with  Serkan Aglasan, Le Chen, and Rejesus Roderick
 
   
 ## WORKING IN PROGRESS
-* __"Estimating the Impact of Soil Erosion on Mean Yield and Yield Risk: Evidence from US County-Level Data"__ with  Roderick Rejesus, Le Chen, and Serkan Aglasan
 * __"Non-parametric Estimation of Risk Preferences"__ with Xiaoyong Zheng and Zheng Li
 * __"Data-Driven Estimates of Structural Change in the Demand for Multiple Peril Crop Insurance"__ wirh Barry Goodwin
