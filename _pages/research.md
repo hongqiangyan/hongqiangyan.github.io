@@ -25,8 +25,6 @@ This paper investigates the extent of market integration and exchange rate pass-
 This study investigates the influence of soil erosion on crop yields within the United States (U.S.) using county-level panel data. We first estimate linear panel fixed-effect econometric models to examine the direct impact of two major types of soil erosion (wind and water erosion) on the mean yields of two major crops (soybean and corn), as well as on the higher-order central moments of yields. Although we find that counties with higher levels of soil erosion due to water, wind, or both experience more severe reductions in mean yield, we do not find strong evidence of the yield risk effects of soil erosion. Furthermore, we explore potential nonlinear effects and the presence of multiple unknown breaks in panel data models using the least absolute shrinkage and selection operator (LASSO) method. The LASSO method provides additional empirical insights into the nonlinear impact of soil erosion on mean yields, particularly for corn, especially when structural breaks are present. These findings offer valuable insights for policymakers seeking to better understand the overall impact of soil erosion on agricultural productivity, and the LASSO approach provides applied economists with a more flexible method to relax the linear constraints in panel data models.
 
 
-======
-
 Working In Progress
 ======
 * __"Non-parametric Estimation of Risk Preferences"__ with Xiaoyong Zheng and Zheng Li
