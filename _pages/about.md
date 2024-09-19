@@ -23,8 +23,6 @@ Feel free to get in touch with me at **hongqiang dot yan [atsign] asu dot edu**.
  * Econometrics
    
 ## WORKING PAPER
-Working Papers
-======
 * __"Global Maize Market Integration: Exchange Rates, Macroeconomic Factors, and Threshold Effects Using Post-LASSO Inference"__ [latest version](https://hongqiangyan.github.io/files/Yan_Goodwin_Caner_Integration_Maize_Markets.pdf)  
   *With Barry Goodwin and Mehmet Caner*  
 
