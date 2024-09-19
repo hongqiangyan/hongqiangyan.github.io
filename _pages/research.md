@@ -22,7 +22,7 @@ Working Papers
 
   This study examines the impact of soil erosion on crop yields in the United States using county-level panel data. We use linear panel fixed effects (FE) models to assess how wind and water erosion affect the mean yields of soybeans and corn. The results show that higher soil erosion levels, whether from water, wind, or a combination, lead to significant reductions in mean yields. Additionally, soil erosion contributes to increased variance and kurtosis in corn yields, indicating greater yield instability, though its impact on soybean yield risk is less conclusive. To further explore the complexities of this relationship, we investigate potential nonlinear effects of soil erosion on crop yields. This analysis reveals complex nonlinear impacts of soil erosion, particularly on mean yields. These findings suggest that the relationship between soil erosion and crop yield is more intricate than what linear models can capture. Our study highlights important policy implications, emphasizing the need for targeted soil conservation strategies to mitigate the adverse effects of erosion on crop yields.
 
-* __"Uniform Inference In High-dimensional Threshold Regression"__ [latest version](https://hongqiangyan.github.io/files/Yan_Aglasan_Chen_Rejesus_Erosion_Yield.pdf)  
+* __"Uniform Inference In High-dimensional Threshold Regression"__ [latest version](https://hongqiangyan.github.io/files/Li_Yan_LASSO_Threshold.pdf)  
   [Link to Arxiv](https://arxiv.org/abs/2404.08105)  
   *With Jiatong Li*  
 
