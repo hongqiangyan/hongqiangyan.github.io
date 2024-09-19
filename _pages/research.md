@@ -11,9 +11,9 @@ redirect_from:
 Working Papers
 ======
 * __"Global Maize Market Integration: Exchange Rates, Macroeconomic Factors, and Threshold Effects Using Post-LASSO Inference"__ [latest version](https://hongqiangyan.github.io/files/Yan_Goodwin_Caner_Integration_Maize_Markets.pdf)  
-  *With Barry Goodwin and Mehmet Caner*  
+  *With Barry Goodwin and Mehmet Caner*
 
- This paper investigates the degree of market integration, exchange rate pass-through, and the market factors that contribute to deviations from perfect integration. To analyze the price linkage dynamics, we apply the novel debiased LASSO for uniformly valid statistical inference, including linearity testing and Granger causality testing within the high-dimensional threshold regression models. Our findings reveal significant global maize market integration, particularly when incorporating threshold effects and key market factors. Notably, consumer prices and unemployment emerge as important determinants of price linkages, underscoring their relevance in the global commodity market.
+  This paper investigates the degree of market integration, exchange rate pass-through, and the market factors that contribute to deviations from perfect integration. To analyze the price linkage dynamics, we apply the novel debiased LASSO for uniformly valid statistical inference, including linearity testing and Granger causality testing within the high-dimensional threshold regression models. Our findings reveal significant global maize market integration, particularly when incorporating threshold effects and key market factors. Notably, consumer prices and unemployment emerge as important determinants of price linkages, underscoring their relevance in the global commodity market.
  
   [Link to AgeconSearch](https://ageconsearch.umn.edu/record/335707?ln=en&v=pdf)  
   
