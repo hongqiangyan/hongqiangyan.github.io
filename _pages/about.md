@@ -12,6 +12,7 @@ Hello, I'm Hongqiang Yan (严宏强), currently a Postdoctoral Scholar at The Mo
 
 Feel free to get in touch with me at **hongqiang dot yan [atsign] asu dot edu**.
 
+[**Download CV**]((https://hongqiangyan.github.io/files/Yan_Goodwin_Caner_Integration_Maize_Markets.pdf))
 
 
 ## EDUCATION
