@@ -26,12 +26,13 @@ Feel free to get in touch with me at **hongqiang dot yan [atsign] asu dot edu**.
 ## WORKING PAPER
 * __"Global Maize Market Integration: Exchange Rates, Macroeconomic Factors, and Threshold Effects Using Post-LASSO Inference"__ [latest version](https://hongqiangyan.github.io/files/Yan_Goodwin_Caner_Integration_Maize_Markets.pdf)  
   *With Barry Goodwin and Mehmet Caner*  
-
 * __"The Impact of Soil Erosion on Mean Yields and Yield Risk"__ [latest version](https://hongqiangyan.github.io/files/Yan_Aglasan_Chen_Rejesus_Erosion_Yield.pdf)  
   *With Serkan Aglasan, Le Chen, and Roderick Rejesus*  
 * __"Uniform Inference In High-dimensional Threshold Regression"__ [latest version](https://hongqiangyan.github.io/files/Li_Yan_LASSO_Threshold.pdf)  
   *With Jiatong Li*
   
 ## WORKING IN PROGRESS
-* __"Non-parametric Estimation of Risk Preferences"__ with Xiaoyong Zheng and Zheng Li
-* __"Data-Driven Estimates of Structural Change in the Demand for Multiple Peril Crop Insurance"__ wirh Barry Goodwin
+* __"Non-parametric Estimation of Risk Preferences"__ 
+ *With Xiaoyong Zheng and Zheng Li*  
+* __"Data-Driven Estimates of Structural Change in the Demand for Multiple Peril Crop Insurance"__
+ *With Barry Goodwin*  
