@@ -24,10 +24,13 @@ Feel free to get in touch with me at **hongqiang dot yan [atsign] asu dot edu**.
  * Econometric Theory
    
 ## WORKING PAPER
-* __"Global Maize Market Integration: A High-Dimensional Local Projection Approach with Mixed-Frequency Data and Regime Switching"__  (Available upon request) 
+* __"Global Maize Market Integration: A High-Dimensional Local Projection Approach with Mixed-Frequency Data and Regime Switching"__  
   *With Barry Goodwin and Mehmet Caner*  
-* __"The Impact of Soil Erosion on Mean Yields and Yield Risk"__ (Available upon request) 
+  **_(Available upon request)_**  
+
+* __"The Impact of Soil Erosion on Mean Yields and Yield Risk"__  
   *With Serkan Aglasan, Le Chen, and Roderick Rejesus*  
+  **_(Available upon request)_**  
 * __"Uniform Inference In High-dimensional Threshold Regression"__ [latest version](https://hongqiangyan.github.io/files/Li_Yan_LASSO_Threshold.pdf)  
   *With Jiatong Li*
   
