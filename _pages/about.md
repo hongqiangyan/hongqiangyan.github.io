@@ -35,7 +35,5 @@ Feel free to get in touch with me at **hongqiang dot yan [atsign] asu dot edu**.
   *With Jiatong Li*
   
 ## WORKING IN PROGRESS
-* __"Non-parametric Estimation of Risk Preferences"__ 
- *With Xiaoyong Zheng and Zheng Li*  
 * __"Data-Driven Estimates of Structural Change in the Demand for Multiple Peril Crop Insurance"__
  *With Barry Goodwin*  
