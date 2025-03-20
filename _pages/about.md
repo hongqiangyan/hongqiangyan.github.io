@@ -36,7 +36,7 @@ To learn more about my current and past research projects, feel free to contact 
   **_(Available upon request)_**  
 
 * __Jiatong Li, Hongqiang Yan.__ *Uniform Inference in High-Dimensional Threshold Regression Models.* *(Co-first authored; Target Journal: Journal of Econometrics).*  
-  [Latest version](https://hongqiangyan.github.io/files/Li_Yan_LASSO_Threshold.pdf)  
+  [Latest version](https://arxiv.org/abs/2404.08105v2) 
 
 * __Mitchell Roznik, Ashok K. Mishra, Hongqiang Yan.__ *Extreme Climate, Financial Health, and Credit Default Risk: An American Landscape.*  
 
