@@ -23,6 +23,17 @@ To learn more about my current and past research projects, feel free to contact 
 ## RESEARCH INTERESTS
  * Production Economics
  * Applied Econometrics
+
+## PAPERS IN REVIEW  
+
+* __Hongqiang Yan, Ashok K. Mishra, Xi Zhou.__ *Voluntary ESG Reporting and Firm Performance: An Exploration in China’s Food and Beverage Industry.* **(Under review)**  
+
+* __Khanal, Aditya, Ashok K. Mishra, Jaweriah Hazrana, Hongqiang Yan.__ *Risk Attitude, Perception, Management Experience, and Productivity: Evidence from a Semiparametric Approach and a Less-Developed Economy.* **(Revise and resubmit)**  
+
+* __Mitchell Roznik, Ashok K. Mishra, Hongqiang Yan.__ *Estimating the Effect of Temporal Changes in Soil-Related Crop Productivity Index on Crop Yield Risk.* **(Revise and resubmit)**  
+
+* __Le Chen, Roderick Rejesus, Serkan Aglasan, Hongqiang Yan.__ *Lost Ground, Lost Value: Investigating the Relationship Between Soil Erosion and Agricultural Land Value.* **(Revise and resubmit)**  
+
    
 ## WORKING PAPER
 
