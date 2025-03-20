@@ -12,9 +12,10 @@ Hello, I’m Hongqiang Yan (严宏强), a Postdoctoral Research Scholar at the M
 
 I completed my Ph.D. at NC State University and my M.S. at Texas A&M University.
 
-To learn more about my current and past research projects, feel free to contact me at  
-\texttt{hongqiang dot yan [at] asu dot edu}  
-(\href{mailto:hongqiang.yan@asu.edu}{Click here to email me}).
+
+To learn more about my current and past research projects, feel free to contact me at:  
+**hongqiang dot yan [at] asu dot edu**  
+[Click here to email me](mailto:hongqiang.yan@asu.edu).
 
 [Download CV](https://hongqiangyan.github.io/files/Hongqiang_Yan_CV.pdf)
 
