@@ -30,7 +30,11 @@ Working Papers
   [Link to Arxiv](https://arxiv.org/abs/2404.08105)  
 [Supplementary Material](https://github.com/hongqiangyan/desparsified_Lasso_threshold_reg)
 
-Working In Progress
-======
-* __"Data-Driven Estimates of Structural Change in the Demand for Multiple Peril Crop Insurance"__ 
-*With Barry Goodwin*  
+  
+## WORK IN PROGRESS  
+
+* __Hongqiang Yan, Barry Goodwin.__ *Data-Driven Estimates of Structural Change in the Demand for Multiple Peril Crop Insurance.*  
+
+* __Hongqiang Yan, Mark Manfredo, Ashok K. Mishra.__ *Machine Learning Forecasts for Food Price Inflation: Expanding FRED-MD.*  
+
+* __Hongqiang Yan, Ashok K. Mishra, Xi Zhou.__ *Examining the Role of Spatial Heterogeneity in Productivity-Enhancing Activities: Evidence from the Chinese Food and Beverage Sector.*  
