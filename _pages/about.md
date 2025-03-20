@@ -35,7 +35,7 @@ To learn more about my current and past research projects, feel free to contact 
 * __Hongqiang Yan, Ashok K. Mishra, Jaweriah Hazrana.__ *Spatial Analysis of Modern Rice Varieties Technology on Production: Evidence from Panel Data in Bangladesh.*  
   **_(Available upon request)_**  
 
-* __Jiatong Li, Hongqiang Yan.__ *Uniform Inference in High-Dimensional Threshold Regression Models.* *(Co-first authored; Target Journal: Journal of Econometrics).*  
+* __Jiatong Li, Hongqiang Yan.__ *Uniform Inference in High-Dimensional Threshold Regression Models.* *(Co-first authored).*  
   [Latest version](https://arxiv.org/abs/2404.08105v2) 
 
 * __Mitchell Roznik, Ashok K. Mishra, Hongqiang Yan.__ *Extreme Climate, Financial Health, and Credit Default Risk: An American Landscape.*  
