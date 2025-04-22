@@ -56,7 +56,7 @@ To learn more about my current and past research projects, feel free to contact 
   
 ## WORK IN PROGRESS  
 
-* **Hongqiang Yan**.*Data-Driven Estimates of Structural Change in the Demand for Multiple Peril Crop Insurance.*  
+* **Hongqiang Yan**. *Data-Driven Estimates of Structural Change in the Demand for Multiple Peril Crop Insurance.*  
 
 * **Hongqiang Yan**, Mark Manfredo, Ashok K. Mishra. *Machine Learning Forecasts for Food Price Inflation: Expanding FRED-MD.*  
 
