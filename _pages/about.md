@@ -28,6 +28,14 @@ To learn more about my current and past research projects, feel free to contact 
  * Applied Econometrics
 
 ## PAPERS IN REVIEW  
+* **Hongqiang Yan**, Ashok K. Mishra, Xi Zhou. *Voluntary ESG Reporting and Firm Performance: An Exploration in China’s Food and Beverage Industry.* **(Revise and resubmit, _Agribusiness: An International Journal_)**
+
+* Khanal, Aditya, Ashok K. Mishra, Jaweriah Hazrana, **Hongqiang Yan**. *Risk Attitude, Perception, Management Experience, and Productivity: Evidence from a Semiparametric Approach and a Less-Developed Economy.* **(Revise and resubmit, _European Review of Agricultural Economics_)**
+
+* Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Estimating the Effect of Temporal Changes in Soil-Related Crop Productivity Index on Crop Yield Risk.* **(Revise and resubmit, _American Journal of Agricultural Economics_)**
+
+
+## PAPERS IN REVIEW  
 * __**Hongqiang Yan**, Ashok K. Mishra, Xi Zhou.__ *Voluntary ESG Reporting and Firm Performance: An Exploration in China’s Food and Beverage Industry.* **(Revise and resubmit, Agribusiness: an international journal)**  
 
 * __Khanal, Aditya, Ashok K. Mishra, Jaweriah Hazrana, **Hongqiang Yan**.__ *Risk Attitude, Perception, Management Experience, and Productivity: Evidence from a Semiparametric Approach and a Less-Developed Economy.* **(Revise and resubmit, European Review of Agricultural Economics)**  
