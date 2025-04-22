@@ -35,36 +35,29 @@ To learn more about my current and past research projects, feel free to contact 
 * Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Estimating the Effect of Temporal Changes in Soil-Related Crop Productivity Index on Crop Yield Risk.* **(Revise and resubmit, _American Journal of Agricultural Economics_)**
 
 
-## PAPERS IN REVIEW  
-* __**Hongqiang Yan**, Ashok K. Mishra, Xi Zhou.__ *Voluntary ESG Reporting and Firm Performance: An Exploration in China’s Food and Beverage Industry.* **(Revise and resubmit, Agribusiness: an international journal)**  
-
-* __Khanal, Aditya, Ashok K. Mishra, Jaweriah Hazrana, **Hongqiang Yan**.__ *Risk Attitude, Perception, Management Experience, and Productivity: Evidence from a Semiparametric Approach and a Less-Developed Economy.* **(Revise and resubmit, European Review of Agricultural Economics)**  
-
-* __Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**.__ *Estimating the Effect of Temporal Changes in Soil-Related Crop Productivity Index on Crop Yield Risk.* **(Revise and resubmit, American Journal of Agricultural Economics)**  
-
 
    
 ## WORKING PAPER
 
-* __**Hongqiang Yan**, Serkan Aglasan, Le Chen, Roderick Rejesus.__ *The Impact of Soil Erosion on Mean Yields and Yield Risk.*  
+* **Hongqiang Yan**, Serkan Aglasan, Le Chen, Roderick Rejesus. *The Impact of Soil Erosion on Mean Yields and Yield Risk.*  
   **_(Available upon request)_**  
 
-* __**Hongqiang Yan**, Barry Goodwin, Mehmet Caner.__ *Global Maize Market Integration: A High-Dimensional Local Projection Approach with Mixed-Frequency Data and Regime Switching.*  
+* **Hongqiang Yan**, Barry Goodwin, Mehmet Caner. *Global Maize Market Integration: A High-Dimensional Local Projection Approach with Mixed-Frequency Data and Regime Switching.*  
   **_(Available upon request)_**  
 
-* __**Hongqiang Yan**, Ashok K. Mishra, Jaweriah Hazrana.__ *Spatial Analysis of Modern Rice Varieties Technology on Production: Evidence from Panel Data in Bangladesh.*  
+* **Hongqiang Yan**, Ashok K. Mishra, Jaweriah Hazrana. *Spatial Analysis of Modern Rice Varieties Technology on Production: Evidence from Panel Data in Bangladesh.*  
   **_(Available upon request)_**  
 
-* __Jiatong Li, **Hongqiang Yan**.__ *Uniform Inference in High-Dimensional Threshold Regression Models.* *(Co-first authored).*  
+* Jiatong Li, **Hongqiang Yan**. *Uniform Inference in High-Dimensional Threshold Regression Models.* *(Co-first authored).*  
   [Latest version](https://arxiv.org/abs/2404.08105v2) 
 
-* __Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**.__ *Extreme Climate, Financial Health, and Credit Default Risk: An American Landscape.*  
+* Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Extreme Climate, Financial Health, and Credit Default Risk: An American Landscape.*  
 
   
 ## WORK IN PROGRESS  
 
-* __Hongqiang Yan__ *Data-Driven Estimates of Structural Change in the Demand for Multiple Peril Crop Insurance.*  
+* **Hongqiang Yan**.*Data-Driven Estimates of Structural Change in the Demand for Multiple Peril Crop Insurance.*  
 
-* __**Hongqiang Yan**, Mark Manfredo, Ashok K. Mishra.__ *Machine Learning Forecasts for Food Price Inflation: Expanding FRED-MD.*  
+* **Hongqiang Yan**, Mark Manfredo, Ashok K. Mishra. *Machine Learning Forecasts for Food Price Inflation: Expanding FRED-MD.*  
 
-* __**Hongqiang Yan**, Ashok K. Mishra, Xi Zhou.__ *Examining the Role of Spatial Heterogeneity in Productivity-Enhancing Activities: Evidence from the Chinese Food and Beverage Sector.*  
+* **Hongqiang Yan**, Ashok K. Mishra, Xi Zhou. *Examining the Role of Spatial Heterogeneity in Productivity-Enhancing Activities: Evidence from the Chinese Food and Beverage Sector.*  
