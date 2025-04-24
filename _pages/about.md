@@ -40,7 +40,7 @@ To learn more about my current and past research projects, feel free to contact 
 ## WORKING PAPER
 
 * **Hongqiang Yan**, Serkan Aglasan, Le Chen, Roderick Rejesus. *The Impact of Soil Erosion on Mean Yields and Yield Risk.*  
-  **_(Available upon request)_**  
+ [Latest version](https://hongqiangyan.github.io/files/Soil Erosion latest 423.pdf)  
 
 * **Hongqiang Yan**, Barry Goodwin, Mehmet Caner. *Global Maize Market Integration: A High-Dimensional Local Projection Approach with Mixed-Frequency Data and Regime Switching.*  
   **_(Available upon request)_**  
