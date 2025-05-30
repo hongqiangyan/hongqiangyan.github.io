@@ -17,7 +17,7 @@ redirect_from:
 
 * Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Estimating the Effect of Temporal Changes in Soil-Related Crop Productivity Index on Crop Yield Risk.* **(Revise and resubmit, American Journal of Agricultural Economics)**  
  * **Hongqiang Yan**, Serkan Aglasan, Le Chen, Roderick Rejesus. *The Dual Damage from Soil Erosion: Lower Yields and Higher Risk in US Agriculture.* **(Under Review, American Journal of Agricultural Economics)**  
- [Latest version](https://hongqiangyan.github.io/files/Soil Erosion latest.pdf)
+ [Latest version](https://hongqiangyan.github.io/files/Soil.pdf)
 
    
 ## WORKING PAPER 
