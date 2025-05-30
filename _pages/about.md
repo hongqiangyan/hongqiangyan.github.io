@@ -34,30 +34,24 @@ To learn more about my current and past research projects, feel free to contact 
 
 * Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Estimating the Effect of Temporal Changes in Soil-Related Crop Productivity Index on Crop Yield Risk.* **(Revise and resubmit, _American Journal of Agricultural Economics_)**
 
+* **Hongqiang Yan**, Serkan Aglasan, Le Chen, Roderick Rejesus. *The Dual Damage from Soil Erosion: Lower Yields and Higher Risk in US Agriculture.*  **(Under Review, _American Journal of Agricultural Economics_)**
 
 
    
 ## WORKING PAPER
 
-* **Hongqiang Yan**, Serkan Aglasan, Le Chen, Roderick Rejesus. *The Impact of Soil Erosion on Mean Yields and Yield Risk.*  
- [Latest version](https://hongqiangyan.github.io/files/Soil Erosion latest 423.pdf)  
-
+* Jiatong Li, **Hongqiang Yan**. *Uniform Inference in High-Dimensional Threshold Regression Models.* *(Co-first authored).*  
+  [Latest version](https://arxiv.org/abs/2404.08105v2)
+  
 * **Hongqiang Yan**, Barry Goodwin, Mehmet Caner. *Global Maize Market Integration: A High-Dimensional Local Projection Approach with Mixed-Frequency Data and Regime Switching.*  
   **_(Available upon request)_**  
 
 * **Hongqiang Yan**, Ashok K. Mishra, Jaweriah Hazrana. *Spatial Analysis of Modern Rice Varieties Technology on Production: Evidence from Panel Data in Bangladesh.*  
-  **_(Available upon request)_**  
-
-* Jiatong Li, **Hongqiang Yan**. *Uniform Inference in High-Dimensional Threshold Regression Models.* *(Co-first authored).*  
-  [Latest version](https://arxiv.org/abs/2404.08105v2) 
-
+* **Hongqiang Yan**, Mark Manfredo, Ashok K. Mishra. *Machine Learning Forecasts for Food Price Inflation: Expanding FRED-MD.*  
 * Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Extreme Climate, Financial Health, and Credit Default Risk: An American Landscape.*  
 
   
 ## WORK IN PROGRESS  
 
 * **Hongqiang Yan**. *Data-Driven Estimates of Structural Change in the Demand for Multiple Peril Crop Insurance.*  
-
-* **Hongqiang Yan**, Mark Manfredo, Ashok K. Mishra. *Machine Learning Forecasts for Food Price Inflation: Expanding FRED-MD.*  
-
 * **Hongqiang Yan**, Ashok K. Mishra, Xi Zhou. *Examining the Role of Spatial Heterogeneity in Productivity-Enhancing Activities: Evidence from the Chinese Food and Beverage Sector.*  
