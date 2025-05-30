@@ -15,7 +15,7 @@ redirect_from:
 
 * Khanal, Aditya, Ashok K. Mishra, Jaweriah Hazrana, **Hongqiang Yan**. *Risk Attitude, Perception, Management Experience, and Productivity: Evidence from a Semiparametric Approach and a Less-Developed Economy.* **(Revise and resubmit, _European Review of Agricultural Economics_)**  
 
-* Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Estimating the Effect of Temporal Changes in Soil-Related Crop Productivity Index on Crop Yield Risk.* **(Revise and resubmit, _American Journal of Agricultural Economics_)**
+* Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Field Rotation Related Soil Productivity Changes, Yield Risk, and Efficiency in Crop Insurance Rating.* **(Revise and resubmit, _American Journal of Agricultural Economics_)**
 
 * **Hongqiang Yan**, Serkan Aglasan, Le Chen, Roderick Rejesus. *The Dual Damage from Soil Erosion: Lower Yields and Higher Risk in US Agriculture.* **(Under Review, _American Journal of Agricultural Economics_)**  
  [Latest version](https://hongqiangyan.github.io/files/Soil.pdf)
