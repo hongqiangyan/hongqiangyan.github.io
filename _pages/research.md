@@ -9,11 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## PAPERS IN REVIEW  
-
-* **Hongqiang Yan**, Ashok K. Mishra, Xi Zhou. *Do All Food and Beverage Firms Benefit from Voluntary ESG Reporting? Evidence from China’s Listed Companies* **(Revise and resubmit, _Agribusiness: An International Journal_)**
-
-* Khanal, Aditya, Ashok K. Mishra, Jaweriah Hazrana, **Hongqiang Yan**. *Risk Attitude, Perception, Management Experience, and Productivity: Evidence from a Semiparametric Approach and a Less-Developed Economy.* **(Revise and resubmit, _European Review of Agricultural Economics_)**  
+## SUBMITTED MANUSCRIPTS
 
 * Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Field Rotation Related Soil Productivity Changes, Yield Risk, and Efficiency in Crop Insurance Rating.* **(Revise and resubmit, _American Journal of Agricultural Economics_)**
 
