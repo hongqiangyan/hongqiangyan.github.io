@@ -27,17 +27,20 @@ To learn more about my current and past research projects, feel free to contact 
  * Production Economics
  * Applied Econometrics
 
-## PAPERS IN REVIEW  
-* **Hongqiang Yan**, Ashok K. Mishra, Xi Zhou. *Do All Food and Beverage Firms Benefit from Voluntary ESG Reporting? Evidence from China’s Listed Companies* **(Revise and resubmit, _Agribusiness: An International Journal_)**
 
-* Khanal, Aditya, Ashok K. Mishra, Jaweriah Hazrana, **Hongqiang Yan**. *Risk Attitude, Perception, Management Experience, and Productivity: Evidence from a Semiparametric Approach and a Less-Developed Economy.* **(Revise and resubmit, _European Review of Agricultural Economics_)**
+## PEER-REVIEWED JOURNAL ARTICLES
 
-* Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Field Rotation Related Soil Productivity Changes, Yield Risk, and Efficiency in Crop Insurance Rating.* **(Revise and resubmit, _American Journal of Agricultural Economics_)**
+* Yan, H., Mishra, A. K., & Zhou, X. (2025). Do all food and beverage firms benefit from voluntary ESG reporting? Evidence from China’s listed companies. *Agribusiness*, forthcoming.
 
-* **Hongqiang Yan**, Serkan Aglasan, Le Chen, Roderick Rejesus. *The Dual Damage from Soil Erosion: Lower Yields and Higher Risk in US Agriculture.*  **(Under Review, _American Journal of Agricultural Economics_)**
+* Khanal, A. K., Mishra, A. K., Hazrana, J., & Yan, H. (2025). Risk attitude, perception, management experience, and productivity: Evidence from a semiparametric approach and a less-developed economy. *European Review of Agricultural Economics*, forthcoming.
+
+## SUBMITTED MANUSCRIPTS
+
+* Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Field Rotation Related Soil Productivity Changes, Yield Risk, and Efficiency in Crop Insurance Rating.* **(Revise and Resubmitted, _American Journal of Agricultural Economics_)**
+
+* **Hongqiang Yan**, Serkan Aglasan, Le Chen, Roderick Rejesus. *The Dual Damage from Soil Erosion: Lower Yields and Higher Risk in US Agriculture.* **(Under Review, _American Journal of Agricultural Economics_)**
 
 
-   
 ## WORKING PAPER
 
 * Jiatong Li, **Hongqiang Yan**. *Uniform Inference in High-Dimensional Threshold Regression Models.* *(Co-first authored).*  
