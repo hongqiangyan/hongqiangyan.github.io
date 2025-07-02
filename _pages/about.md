@@ -35,9 +35,6 @@ To learn more about my current and past research projects, feel free to contact 
 * Khanal, A. K., Mishra, A. K., Hazrana, J., & Yan, H. (2025). Risk attitude, perception, management experience, and productivity: Evidence from a semiparametric approach and a less-developed economy. *European Review of Agricultural Economics*, forthcoming.
 
 ## SUBMITTED MANUSCRIPTS
-
-* Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Field Rotation Related Soil Productivity Changes, Yield Risk, and Efficiency in Crop Insurance Rating.* **(Revise and Resubmitted, _American Journal of Agricultural Economics_)**
-
 * **Hongqiang Yan**, Serkan Aglasan, Le Chen, Roderick Rejesus. *The Dual Damage from Soil Erosion: Lower Yields and Higher Risk in US Agriculture.* **(Under Review, _American Journal of Agricultural Economics_)**
 
 
@@ -51,8 +48,8 @@ To learn more about my current and past research projects, feel free to contact 
 
 * **Hongqiang Yan**, Ashok K. Mishra, Jaweriah Hazrana. *Spatial Analysis of Modern Rice Varieties Technology on Production: Evidence from Panel Data in Bangladesh.*  
 * **Hongqiang Yan**, Mark Manfredo, Ashok K. Mishra. *Machine Learning Forecasts for Food Price Inflation: Expanding FRED-MD.*  
-* Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Extreme Climate, Financial Health, and Credit Default Risk: An American Landscape.*  
-
+* Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Extreme Climate, Financial Health, and Credit Default Risk: An American Landscape.*
+* Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Field Rotation Related Soil Productivity Changes, Yield Risk, and Efficiency in Crop Insurance Rating.*
   
 ## WORK IN PROGRESS  
 
