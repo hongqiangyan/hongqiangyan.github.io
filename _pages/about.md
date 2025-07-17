@@ -25,7 +25,7 @@ To learn more about my current and past research projects, feel free to contact 
  
 ## RESEARCH INTERESTS
  * Production Economics
- * Applied Econometrics
+ * Econometrics
 
 
 ## PEER-REVIEWED JOURNAL ARTICLES
@@ -36,7 +36,7 @@ To learn more about my current and past research projects, feel free to contact 
 
 ## SUBMITTED MANUSCRIPTS
 * **Hongqiang Yan**, Serkan Aglasan, Le Chen, Roderick Rejesus. *The Dual Damage from Soil Erosion: Lower Yields and Higher Risk in US Agriculture.* **(Under Review, _American Journal of Agricultural Economics_)**
-
+* Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Field Rotation Related Soil Productivity Changes, Yield Risk, and Efficiency in Crop Insurance Rating.* **(Under Review, _Journal of the Agricultural and Applied Economics Association_)**
 
 ## WORKING PAPER
 
@@ -49,7 +49,6 @@ To learn more about my current and past research projects, feel free to contact 
 * **Hongqiang Yan**, Ashok K. Mishra, Jaweriah Hazrana. *Spatial Analysis of Modern Rice Varieties Technology on Production: Evidence from Panel Data in Bangladesh.*  
 * **Hongqiang Yan**, Mark Manfredo, Ashok K. Mishra. *Machine Learning Forecasts for Food Price Inflation: Expanding FRED-MD.*  
 * Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Extreme Climate, Financial Health, and Credit Default Risk: An American Landscape.*
-* Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Field Rotation Related Soil Productivity Changes, Yield Risk, and Efficiency in Crop Insurance Rating.*
   
 ## WORK IN PROGRESS  
 
