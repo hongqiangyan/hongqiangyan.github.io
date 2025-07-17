@@ -10,13 +10,10 @@ redirect_from:
 {% include base_path %}
 
 ## SUBMITTED MANUSCRIPTS
-
-* Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Field Rotation Related Soil Productivity Changes, Yield Risk, and Efficiency in Crop Insurance Rating.* **(Revise and resubmit, _American Journal of Agricultural Economics_)**
-
 * **Hongqiang Yan**, Serkan Aglasan, Le Chen, Roderick Rejesus. *The Dual Damage from Soil Erosion: Lower Yields and Higher Risk in US Agriculture.* **(Under Review, _American Journal of Agricultural Economics_)**  
  [Latest version](https://hongqiangyan.github.io/files/Soil.pdf)
+* Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Field Rotation Related Soil Productivity Changes, Yield Risk, and Efficiency in Crop Insurance Rating.* **(Under Review, _Journal of the Agricultural and Applied Economics Association_)**
 
-   
 ## WORKING PAPER 
 * Jiatong Li, **Hongqiang Yan**. *Uniform Inference in High-Dimensional Threshold Regression Models.* *(Co-first authored).*  
   [Latest version](https://arxiv.org/abs/2404.08105v2)  
