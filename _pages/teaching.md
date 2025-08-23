@@ -7,15 +7,21 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-Independent Instructor
-======
-**Department of Economics, NC State University**
-* Principles of Microeconomics: Spring 2023
-  * [__"Evidence of Teaching Effectiveness"__](https://hongqiangyan.github.io/files/Hongqiang_Students_Comments.pdf)
 
-Graduate Teaching Assistant
-======
-**Department of Economics/Department of Agricultural and Resource Economics, NC State University**
+## Instructor
+
+**Morrison School of Agribusiness, ASU W. P. Carey School**  
+- *International Management and Agribusiness*: Summer 2025  
+- Student Evaluations: **6.75/7** (35/46 responses), **6.64/7** (41/68 responses)  
+  - [*"Course Evaluation Report"*](https://hongqiangyan.github.io/files/Hongqiang_Students_Comments.pdf)
+
+**Department of Economics, NC State University**  
+- *Principles of Microeconomics*: Spring 2023  
+  - [*"Evidence of Teaching Effectiveness"*](https://hongqiangyan.github.io/files/Hongqiang_Students_Comments.pdf)
+
+## Graduate Teaching Assistant
+
+**Department of Economics / Department of Agricultural and Resource Economics, NC State University**
 
 * Fundamentals of Microeconomics (Master-Level): Fall 2020, 2021, 2022 
 
