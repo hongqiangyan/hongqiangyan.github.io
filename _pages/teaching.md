@@ -13,7 +13,8 @@ redirect_from:
 **Morrison School of Agribusiness, ASU W. P. Carey School**  
 - *International Management and Agribusiness*: Summer 2025  
 - Student Evaluations: **6.75/7** (35/46 responses), **6.64/7** (41/68 responses)  
-  - [*"Course Evaluation Report"*](https://hongqiangyan.github.io/files/Hongqiang_Students_Comments.pdf)
+  - [*"Course Evaluation Report 1"*](https://hongqiangyan.github.io/files/AGB302.pdf)
+  - [*"Course Evaluation Report 2"*](https://hongqiangyan.github.io/files/AGB302-2.pdf)
 
 **Department of Economics, NC State University**  
 - *Principles of Microeconomics*: Spring 2023  
