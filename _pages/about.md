@@ -24,7 +24,7 @@ To learn more about my current and past research projects, feel free to contact 
 * Ph.D. in Economics, NC State University, 2018-2024
  
 ## RESEARCH INTERESTS
- * Production Economics
+ * Agricultural Economics
  * Econometrics
 
 
@@ -34,23 +34,30 @@ To learn more about my current and past research projects, feel free to contact 
 
 * Khanal, A. K., Mishra, A. K., Hazrana, J., & Yan, H. (2025). Risk attitude, perception, management experience, and productivity: Evidence from a semiparametric approach and a less-developed economy. *European Review of Agricultural Economics*, forthcoming.
 
-## SUBMITTED MANUSCRIPTS
-* **Hongqiang Yan**, Serkan Aglasan, Le Chen, Roderick Rejesus. *The Dual Damage from Soil Erosion: Lower Yields and Higher Risk in US Agriculture.* **(Under Review, _American Journal of Agricultural Economics_)**
-* Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Field Rotation Related Soil Productivity Changes, Yield Risk, and Efficiency in Crop Insurance Rating.* **(Under Review, _Journal of the Agricultural and Applied Economics Association_)**
+## Submitted Manuscripts  
 
-## WORKING PAPER
+* Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Field Rotation Related Soil Productivity Changes, Yield Risk, and Efficiency in Crop Insurance Rating.* **(Under Review, Journal of the Agricultural and Applied Economics Association)**  
 
-* Jiatong Li, **Hongqiang Yan**. *Uniform Inference in High-Dimensional Threshold Regression Models.* *(Co-first authored).*  
-  [Latest version](https://arxiv.org/abs/2404.08105v2)
-  
-* **Hongqiang Yan**, Barry Goodwin, Mehmet Caner. *Global Maize Market Integration: A High-Dimensional Local Projection Approach with Mixed-Frequency Data and Regime Switching.*  
-  **_(Available upon request)_**  
+* **Hongqiang Yan**, Serkan Aglasan, Le Chen, Roderick Rejesus. *The Dual Damage from Soil Erosion: Lower Yields and Higher Risk in US Agriculture.* **(Submitted)**  
 
+* Jiatong Li, **Hongqiang Yan**. *Uniform Inference in High-Dimensional Threshold Regression Models.* **(Submitted)** [Latest version](https://arxiv.org/abs/2404.08105v3)  
+
+
+## Working Papers  
+
+* **Hongqiang Yan**, Barry Goodwin, Mehmet Caner. *Global Maize Market Integration: A High-Dimensional Local Projection Approach with Mixed-Frequency Data and Regime Switching.* (Available upon request)  
+
+* **Hongqiang Yan**, Mark Manfredo, Ashok K. Mishra. *Machine Learning Forecasts for Food Price Inflation: Expanding FRED-MD.* (Available upon request)  
+* **Hongqiang Yan**, Barry Goodwin, Ashok K. Mishra. *Detecting Structural Change in the Demand for Multiple Peril Crop Insurance.*  (Available upon request)  
 * **Hongqiang Yan**, Ashok K. Mishra, Jaweriah Hazrana. *Spatial Analysis of Modern Rice Varieties Technology on Production: Evidence from Panel Data in Bangladesh.*  
-* **Hongqiang Yan**, Mark Manfredo, Ashok K. Mishra. *Machine Learning Forecasts for Food Price Inflation: Expanding FRED-MD.*  
-* Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Extreme Climate, Financial Health, and Credit Default Risk: An American Landscape.*
-  
-## WORK IN PROGRESS  
 
-* **Hongqiang Yan**. *Data-Driven Estimates of Structural Change in the Demand for Multiple Peril Crop Insurance.*  
-* **Hongqiang Yan**, Ashok K. Mishra, Xi Zhou. *Examining the Role of Spatial Heterogeneity in Productivity-Enhancing Activities: Evidence from the Chinese Food and Beverage Sector.*  
+* Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Extreme Climate, Financial Health, and Credit Default Risk: An American Landscape.*  (Available upon request)  
+
+
+
+
+## Work in Progress  
+
+* *Cost Functions Under Uncertainty: A Conditional Value-at-Risk Approach* (with Ashok K. Mishra)  
+
+* *Uniform Inference and Variable Selection in High-Dimensional Cross-Section-Varying Panel Data Models with Structural Breaks* (with Jiatong Li)  
