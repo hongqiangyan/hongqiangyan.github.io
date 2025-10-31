@@ -56,4 +56,4 @@ To learn more about my current and past research projects, feel free to contact 
 
 * *Cost Functions Under Uncertainty: A Conditional Value-at-Risk Approach* (with Ashok K. Mishra)  
 
-* *Uniform Inference and Variable Selection in High-Dimensional Cross-Section-Varying Panel Data Models with Structural Breaks* (with Jiatong Li)  
+* *Uniform Inference in High-Dimensional Panel Data Models with Breaks* (with Jiatong Li)  
