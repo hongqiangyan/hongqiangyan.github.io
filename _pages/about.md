@@ -45,7 +45,6 @@ To learn more about my current and past research projects, feel free to contact 
 
 ## Working Papers  
 * **Hongqiang Yan**, Barry Goodwin, Mehmet Caner. *Global Maize Market Integration: A High-Dimensional Local Projection Approach with Mixed-Frequency Data and Regime Switching.* (Available upon request)  
-* **Hongqiang Yan**, Mark Manfredo, Ashok K. Mishra. *Machine Learning Forecasts for Food Price Inflation: Expanding FRED-MD.* (Available upon request)  
 * **Hongqiang Yan**, Barry Goodwin, Ashok K. Mishra. *Detecting Structural Change in the Demand for Multiple Peril Crop Insurance.*  (Available upon request)  
 * **Hongqiang Yan**, Ashok K. Mishra, Jaweriah Hazrana. *Spatial Analysis of Modern Rice Varieties Technology on Production: Evidence from Panel Data in Bangladesh.*  
 * Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Extreme Climate, Financial Health, and Credit Default Risk: An American Landscape.*  (Available upon request)  
