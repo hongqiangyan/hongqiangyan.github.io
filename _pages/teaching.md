@@ -12,7 +12,7 @@ redirect_from:
 
 **Morrison School of Agribusiness, ASU W. P. Carey School**  
 - *International Management and Agribusiness*: Summer 2025  
-- Student Evaluations: **6.75/7** (35/46 responses), **6.64/7** (41/68 responses)  
+- Student Evaluations: **6.62/7** (35/46 responses, 41/68 responses)  
   - [*"Course Evaluation Report 1"*](https://hongqiangyan.github.io/files/AGB302.pdf)
   - [*"Course Evaluation Report 2"*](https://hongqiangyan.github.io/files/AGB302-2.pdf)
 
