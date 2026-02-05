@@ -67,4 +67,4 @@ To learn more about my current and past research projects, feel free to contact 
 
 * *Cost Functions Under Uncertainty: A Conditional Value-at-Risk Approach* (with Ashok K. Mishra)  
 
-* *Uniform Inference in High-Dimensional Panel Data Models with Breaks* (with Jiatong Li)  
+* *How Economic News Drives Volatility in Commodity Markets* (with Ashok K. Mishra, Mark Manfredo)  
