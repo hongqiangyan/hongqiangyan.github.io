@@ -46,7 +46,9 @@ redirect_from:
 
 * Yan, H., Mishra, A. K., & Zhou, X. (2025). Do all food and beverage firms benefit from voluntary ESG reporting? Evidence from China’s listed companies. *Agribusiness: An International Journal*, forthcoming. [Online version](https://doi.org/10.1002/agr.70004)  
 
-* Khanal, A. K., Mishra, A. K., Hazrana, J., & Yan, H. (2025). Risk attitude, perception, management experience, and productivity: Evidence from a semiparametric approach and a less-developed economy. *European Review of Agricultural Economics*, forthcoming.
+*Aditya R Khanal, Ashok K Mishra, Jaweriah Hazrana, Hongqiang Yan, Risk attitude, perception, management experience, and productivity: Evidence from a semiparametric approach and a less developed economy, European Review of Agricultural Economics, Volume 52, Issue 5, December 2025, Pages 1442–1468, https://doi.org/10.1093/erae/jbaf043
+
+Khanal, A. K., Mishra, A. K., Hazrana, J., & Yan, H. (2025). Risk attitude, perception, management experience, and productivity: Evidence from a semiparametric approach and a less-developed economy. *European Review of Agricultural Economics*, forthcoming.
 
 * Aditya R Khanal, Ashok K Mishra, Jaweriah Hazrana, Hongqiang Yan, Risk attitude, perception, management experience, and productivity: Evidence from a semiparametric approach and a less developed economy, European Review of Agricultural Economics, Volume 52, Issue 5, December 2025, Pages 1442–1468, https://doi.org/10.1093/erae/jbaf043
 
