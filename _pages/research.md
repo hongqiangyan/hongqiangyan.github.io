@@ -11,6 +11,7 @@ redirect_from:
 
 ## SUBMITTED MANUSCRIPTS
 
+* **Hongqiang Yan**, Mark Manfredo, Ashok K. Mishra. *Forecasting Food Price Inflation Using Machine Learning: An Expansion Based on FRED-MD.*
 * Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Field Rotation Related Soil Productivity Changes, Yield Risk, and Efficiency in Crop Insurance Rating.* 
 *  **Hongqiang Yan**, Serkan Aglasan, Le Chen, Roderick Rejesus. *The Dual Damage from Soil Erosion: Lower Yields and Higher Risk in US Agriculture.* 
  [Latest version](https://hongqiangyan.github.io/files/Soil.pdf)
