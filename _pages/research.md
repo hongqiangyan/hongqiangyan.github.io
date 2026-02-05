@@ -39,7 +39,7 @@ redirect_from:
 
 * *Cost Functions Under Uncertainty: A Conditional Value-at-Risk Approach* (with Ashok K. Mishra)  
 
-* *Uniform Inference and Variable Selection in High-Dimensional Cross-Section-Varying Panel Data Models with Structural Breaks* (with Jiatong Li)
+* *How Economic News Drives Volatility in Commodity Markets* (with Ashok K. Mishra, Mark Manfredo)  
 
 ## PEER-REVIEWED JOURNAL ARTICLES
 - **Chen, L., Rejesus, R. M., Yan, H., and Aglasan, S. (2026).**  
