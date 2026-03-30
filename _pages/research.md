@@ -10,20 +10,22 @@ redirect_from:
 {% include base_path %}
 
 ## SUBMITTED MANUSCRIPTS
-
-* **Hongqiang Yan**, Mark Manfredo, Ashok K. Mishra. *Forecasting Food Price Inflation Using Machine Learning: An Expansion Based on FRED-MD.*
 *  **Hongqiang Yan**, Serkan Aglasan, Le Chen, Roderick Rejesus. *The Dual Damage from Soil Erosion: Lower Yields and Higher Risk in US Agriculture.* 
  [Latest version](https://hongqiangyan.github.io/files/Soil.pdf)
 * Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Field Rotation Related Soil Productivity Changes, Yield Risk, and Efficiency in Crop Insurance Rating.* 
-* Jiatong Li, **Hongqiang Yan**. *Uniform Inference in High-Dimensional Threshold Regression Models.*
-  [Latest version](https://arxiv.org/abs/2404.08105)
-  [Supplementary Material](https://github.com/hongqiangyan/DTLasso)
+
 ## WORKING PAPER 
 * **Hongqiang Yan**, Barry Goodwin, Mehmet Caner. *Global Maize Market Integration: A High-Dimensional Local Projection Approach with Mixed-Frequency Data and Regime Switching.*  
   
   **Abstract:** This paper investigates the degree of market integration, exchange rate pass-through, and the market factors that contribute to deviations from perfect integration. To analyze the price linkage dynamics, we apply the novel debiased LASSO for Local Projection Approach, including linearity testing within high-dimensional Regime Switching regression models.  Our findings reveal significant global maize market integration, particularly when incorporating threshold effects and key market factors. Notably, consumer prices and unemployment emerge as important determinants of price linkages, underscoring their relevance in the global commodity market.  
+*Jiatong Li, **Hongqiang Yan**.  
+  *Uniform Inference in High-Dimensional Threshold Regression Models.*  
 
-* **Hongqiang Yan**, Barry Goodwin, Ashok K. Mishra. *Detecting Structural Change in the Demand for Multiple Peril Crop Insurance.*  
+  [Latest version](https://arxiv.org/abs/2404.08105)  
+  [Supplementary Material](https://github.com/hongqiangyan/DTLasso)  
+
+  
+  **Hongqiang Yan**, Barry Goodwin, Ashok K. Mishra. *Detecting Structural Change in the Demand for Multiple Peril Crop Insurance.*  
     
   **Abstract:** Understanding what shapes producers’ adoption of crop insurance is essential for evaluating the U.S. Federal Crop Insurance Program. This study analyzes county-level corn and soybean data from 1992 to 2023 using a high-dimensional panel regression with an unknown structural break to account for major policy changes following the 1994 Reform Act. The model selects key weather, soil, and market variables, allowing their effects to vary across policy regimes. Results show inelastic demand—average price elasticities of –0.031 for corn and –0.113 for soybeans—with significant heterogeneity across regions. High-return counties exhibit lower price responsiveness, while responses to moderate and extreme heat vary by crop type and policy period. The findings emphasize that farmers’ production environment and policy context shape farmers’ insurance decisions. While crop insurance enhances risk management, it may also affect regional crop diversity and the long-term sustainability of farming systems due to uneven responsiveness across producer types and locations.
   
