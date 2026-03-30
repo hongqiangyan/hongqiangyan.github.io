@@ -23,7 +23,7 @@ redirect_from:
   [Latest version](https://arxiv.org/abs/2404.08105)  
   [Supplementary Material](https://github.com/hongqiangyan/DTLasso)
   
-    **Hongqiang Yan**, Barry Goodwin, Ashok K. Mishra. *Detecting Structural Change in the Demand for Multiple Peril Crop Insurance.*  
+* **Hongqiang Yan**, Barry Goodwin, Ashok K. Mishra. *Detecting Structural Change in the Demand for Multiple Peril Crop Insurance.*  
     
   **Abstract:** Understanding what shapes producers’ adoption of crop insurance is essential for evaluating the U.S. Federal Crop Insurance Program. This study analyzes county-level corn and soybean data from 1992 to 2023 using a high-dimensional panel regression with an unknown structural break to account for major policy changes following the 1994 Reform Act. The model selects key weather, soil, and market variables, allowing their effects to vary across policy regimes. Results show inelastic demand—average price elasticities of –0.031 for corn and –0.113 for soybeans—with significant heterogeneity across regions. High-return counties exhibit lower price responsiveness, while responses to moderate and extreme heat vary by crop type and policy period. The findings emphasize that farmers’ production environment and policy context shape farmers’ insurance decisions. While crop insurance enhances risk management, it may also affect regional crop diversity and the long-term sustainability of farming systems due to uneven responsiveness across producer types and locations.
   
