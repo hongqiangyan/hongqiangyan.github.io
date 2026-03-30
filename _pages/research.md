@@ -42,6 +42,11 @@ redirect_from:
 * *How Economic News Drives Volatility in Commodity Markets* (with Ashok K. Mishra, Mark Manfredo)  
 
 ## PEER-REVIEWED JOURNAL ARTICLES
+- **Yan, H., Manfredo, M., and Mishra, A. K. (2026).**  
+  Forecasting food price inflation using machine learning: An expansion based on FRED-MD.  
+  *Food Policy*. Advance online publication.  
+  https://doi.org/10.1016/j.foodpol.2026.103077
+
 - **Chen, L., Rejesus, R. M., Yan, H., and Aglasan, S. (2026).**  
   Lost ground, lost value: Investigating the relationship between soil erosion and agricultural land value.  
   *American Journal of Agricultural Economics*. Advance online publication.  
