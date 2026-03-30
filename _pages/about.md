@@ -29,8 +29,12 @@ To learn more about my current and past research projects, feel free to contact 
 
 
 ## PEER-REVIEWED JOURNAL ARTICLES
-
-- **Chen, L., Rejesus, R. M., Yan, H., and Aglasan, S. (2026).**  
+- **Yan, H., Manfredo, M., and Mishra, A. K. (2026).**  
+  Forecasting food price inflation using machine learning: An expansion based on FRED-MD.  
+  *Food Policy*. Advance online publication.  
+  https://doi.org/10.1016/j.foodpol.2026.103077
+  
+  - **Chen, L., Rejesus, R. M., Yan, H., and Aglasan, S. (2026).**  
   Lost ground, lost value: Investigating the relationship between soil erosion and agricultural land value.  
   *American Journal of Agricultural Economics*. Advance online publication.  
   https://doi.org/10.1002/ajae.70057
@@ -46,15 +50,12 @@ To learn more about my current and past research projects, feel free to contact 
   https://doi.org/10.1093/erae/jbaf043
 
 
-## Submitted Manuscripts  
-- **Hongqiang Yan**, Mark Manfredo, Ashok K. Mishra. *Forecasting Food Price Inflation Using Machine Learning: An Expansion Based on FRED-MD.*
+
+## Working Papers  
 - **Hongqiang Yan**, Serkan Aglasan, Le Chen, Roderick Rejesus. *The Dual Damage from Soil Erosion: Lower Yields and Higher Risk in US Agriculture.*
 - Jiatong Li, **Hongqiang Yan**. *Uniform Inference in High-Dimensional Threshold Regression Models.*  
   [Latest version](https://arxiv.org/abs/2404.08105v3)
 - Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Field Rotation Related Soil Productivity Changes, Yield Risk, and Efficiency in Crop Insurance Rating.*
-
-
-## Working Papers  
 * **Hongqiang Yan**, Barry Goodwin, Mehmet Caner. *Global Maize Market Integration: A High-Dimensional Local Projection Approach with Mixed-Frequency Data and Regime Switching.* (Available upon request)  
 * **Hongqiang Yan**, Barry Goodwin, Ashok K. Mishra. *Detecting Structural Change in the Demand for Multiple Peril Crop Insurance.*  (Available upon request)  
 * **Hongqiang Yan**, Ashok K. Mishra, Jaweriah Hazrana. *Spatial Analysis of Modern Rice Varieties Technology on Production: Evidence from Panel Data in Bangladesh.*  (Available upon request)  
