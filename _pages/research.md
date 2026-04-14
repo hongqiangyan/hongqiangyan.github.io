@@ -52,7 +52,7 @@ redirect_from:
 
 - **Yan, H., Mishra, A. K., and Zhou, X. (2025).**  
   Do all food and beverage firms benefit from voluntary ESG reporting? Evidence from China’s listed companies.  
-  *Agribusiness*. Advance online publication. https://doi.org/10.1002/agr.70004
+  *Agribusiness*, 42: 623-640. https://doi.org/10.1002/agr.70004
 
 - **Khanal, A. R., Mishra, A. K., Hazrana, J., and Yan, H. (2025).**  
   Risk attitude, perception, management experience, and productivity: Evidence from a semiparametric approach and a less developed economy.  
