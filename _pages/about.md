@@ -34,18 +34,14 @@ To learn more about my current and past research projects, feel free to contact 
   *Food Policy*, 140, 103077. https://doi.org/10.1016/j.foodpol.2026.103077.
 - **Chen, L., Rejesus, R. M., Yan, H., and Aglasan, S. (2026).**  
   Lost ground, lost value: Investigating the relationship between soil erosion and agricultural land value.  
-  *American Journal of Agricultural Economics*. Advance online publication.  
-  https://doi.org/10.1002/ajae.70057
+  *American Journal of Agricultural Economics*. Advance online publication. https://doi.org/10.1002/ajae.70057
 
 - **Yan, H., Mishra, A. K., and Zhou, X. (2025).**  
   Do all food and beverage firms benefit from voluntary ESG reporting? Evidence from China’s listed companies.  
-  *Agribusiness: An International Journal*. Advance online publication.  
-  https://doi.org/10.1002/agr.70004
-
+  *Agribusiness*, 42: 623-640. https://doi.org/10.1002/agr.70004
 - **Khanal, A. R., Mishra, A. K., Hazrana, J., and Yan, H. (2025).**  
   Risk attitude, perception, management experience, and productivity: Evidence from a semiparametric approach and a less developed economy.  
-  *European Review of Agricultural Economics*, **52**(5), 1442–1468.  
-  https://doi.org/10.1093/erae/jbaf043
+  *European Review of Agricultural Economics*, **52**(5), 1442–1468. https://doi.org/10.1093/erae/jbaf043
 
 
 
@@ -54,7 +50,7 @@ To learn more about my current and past research projects, feel free to contact 
 - Jiatong Li, **Hongqiang Yan**. *Uniform Inference in High-Dimensional Threshold Regression Models.*  
   [Latest version](https://arxiv.org/abs/2404.08105v3)
 - Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Field Rotation Related Soil Productivity Changes, Yield Risk, and Efficiency in Crop Insurance Rating.*
-* **Hongqiang Yan**, Barry Goodwin, Mehmet Caner. *Global Maize Market Integration: A High-Dimensional Local Projection Approach with Mixed-Frequency Data and Regime Switching.* (Available upon request)  
+* **Hongqiang Yan**, Barry Goodwin, Mehmet Caner. *Global Maize Market Integration: A High-Dimensional Local Projection Approach with Mixed-Frequency Data and Regime Switching.* (Available upon request) 
 * **Hongqiang Yan**, Barry Goodwin, Ashok K. Mishra. *Detecting Structural Change in the Demand for Multiple Peril Crop Insurance.*  (Available upon request)  
 * **Hongqiang Yan**, Ashok K. Mishra, Jaweriah Hazrana. *Spatial Analysis of Modern Rice Varieties Technology on Production: Evidence from Panel Data in Bangladesh.*  (Available upon request)  
 * Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Extreme Climate, Financial Health, and Credit Default Risk: An American Landscape.*  (Available upon request)  
