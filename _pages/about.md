@@ -41,22 +41,3 @@ To learn more about my current and past research projects, feel free to contact 
 - **Khanal, A. R., Mishra, A. K., Hazrana, J., and Yan, H. (2025).**  
   Risk attitude, perception, management experience, and productivity: Evidence from a semiparametric approach and a less developed economy.  
   *European Review of Agricultural Economics*, **52**(5), 1442–1468. https://doi.org/10.1093/erae/jbaf043
-
-
-
-## Working Papers  
-- **Hongqiang Yan**, Serkan Aglasan, Le Chen, Roderick Rejesus. *The Dual Damage from Soil Erosion: Lower Yields and Higher Risk in US Agriculture.* Conditionally accepted, *Journal of Agricultural and Resource Economics*.
-- Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Field Rotation Related Soil Productivity Changes, Yield Risk, and Efficiency in Crop Insurance Rating.* Revised and resubmitted, *Journal of the Agricultural and Applied Economics Association*.
-- **Hongqiang Yan**, Barry Goodwin, Mehmet Caner. *Global Maize Market Integration: A High-Dimensional Local Projection Approach with Mixed-Frequency Data and Regime Switching.* (Available upon request) 
-- **Hongqiang Yan**, Barry Goodwin, Ashok K. Mishra. *Detecting Structural Change in the Demand for Multiple Peril Crop Insurance.*  (Available upon request)  
-- **Hongqiang Yan**, Ashok K. Mishra, Jaweriah Hazrana. *Spatial Analysis of Modern Rice Varieties Technology on Production: Evidence from Panel Data in Bangladesh.*  (Available upon request)  
-- Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Extreme Climate, Financial Health, and Credit Default Risk: An American Landscape.*  (Available upon request)  
-- **Hongqiang Yan**, Mark Manfredo, Ashok K. Mishra. *How Economic News Drives Volatility in Commodity Markets.*  (Available upon request)
-- Jiatong Li, **Hongqiang Yan**. *Uniform Inference in High-Dimensional Threshold Regression Models.*  
-  [Latest version](https://arxiv.org/abs/2404.08105v3)
-
-## Work in Progress  
-
-* *Cost Functions Under Uncertainty: A Conditional Value-at-Risk Approach* (with Ashok K. Mishra)  
-
-* *Adaptation to Weather Shocks through Harvest Timing Adjustments: Evidence from Field-Level Data in the U.S.* (with Kenichi Kuroiwa, Ashok K. Mishra)  
