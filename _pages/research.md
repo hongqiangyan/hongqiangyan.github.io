@@ -9,19 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-## SUBMITTED MANUSCRIPTS
-* **Hongqiang Yan**, Serkan Aglasan, Le Chen, Roderick Rejesus. *The Dual Damage from Soil Erosion: Lower Yields and Higher Risk in US Agriculture.* Conditionally accepted, *Journal of Agricultural and Resource Economics*.
 
-* Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Field Rotation Related Soil Productivity Changes, Yield Risk, and Efficiency in Crop Insurance Rating.* Revised and resubmitted, *Journal of the Agricultural and Applied Economics Association*.
 
 ## WORKING PAPER 
 * **Hongqiang Yan**, Barry Goodwin, Mehmet Caner. *Global Maize Market Integration: A High-Dimensional Local Projection Approach with Mixed-Frequency Data and Regime Switching.*  
   
   **Abstract:** This paper investigates the degree of market integration, exchange rate pass-through, and the market factors that contribute to deviations from perfect integration. To analyze the price linkage dynamics, we apply the novel debiased LASSO for Local Projection Approach, including linearity testing within high-dimensional Regime Switching regression models.  Our findings reveal significant global maize market integration, particularly when incorporating threshold effects and key market factors. Notably, consumer prices and unemployment emerge as important determinants of price linkages, underscoring their relevance in the global commodity market.
 
-* Jiatong Li, **Hongqiang Yan**.   *Uniform Inference in High-Dimensional Threshold Regression Models.*  
-  [Latest version](https://arxiv.org/abs/2404.08105)  
-  [Supplementary Material](https://github.com/hongqiangyan/DTLasso)
+
   
 * **Hongqiang Yan**, Barry Goodwin, Ashok K. Mishra. *Detecting Structural Change in the Demand for Multiple Peril Crop Insurance.*  
     
@@ -36,6 +31,13 @@ redirect_from:
   **Abstract:** Climate change is expected to increase the frequency and severity of drought in the United States. This study investigates the effect of drought conditions on farm credit default risk and examines the vulnerability of farms to enhanced drought risk. We use individual-level data from Farm Service Agency loan data covering seven-year operating loans. The study applies Cox proportional hazard and Generalized Gamma parametric survival models with various established financial health variables and drought. Findings suggest that lagged drought conditions, occurring in the growing season before loan origination, significantly increase the probability of default. A drought-affected borrower is about 11% more likely to default than an equivalent borrower who has not experienced drought. Non-white and Hispanic farmers affected by drought have higher default risks than their counterparts. Similarly, small and medium-sized farms, compared to large farms affected by drought, exhibit higher loan risk. These findings have important implications for lenders and policymakers, emphasizing the need for comprehensive risk assessment strategies that account for financial, demographic, and environmental factors in the agricultural sector.
 
 * **Hongqiang Yan**, Mark Manfredo, Ashok K. Mishra. *How Economic News Drives Volatility in Commodity Markets.*
+
+* Jiatong Li, **Hongqiang Yan**.   *Uniform Inference in High-Dimensional Threshold Regression Models.*  
+  [Latest version](https://arxiv.org/abs/2404.08105)  
+  [Supplementary Material](https://github.com/hongqiangyan/DTLasso)
+* **Hongqiang Yan**, Serkan Aglasan, Le Chen, Roderick Rejesus. *The Dual Damage from Soil Erosion: Lower Yields and Higher Risk in US Agriculture.* Conditionally accepted, *Journal of Agricultural and Resource Economics*.
+
+* Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Field Rotation Related Soil Productivity Changes, Yield Risk, and Efficiency in Crop Insurance Rating.* Revised and resubmitted, *Journal of the Agricultural and Applied Economics Association*.
 
 ## Work in Progress  
 
