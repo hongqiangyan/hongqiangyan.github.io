@@ -1,0 +1,66 @@
+---
+permalink: /
+title: "Personal Website of Hongqiang Yan"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+{% include base_path %}
+Hello, I’m Hongqiang Yan (严宏强), a Postdoctoral Research Scholar at the Morrison School of Agribusiness, W. P. Carey School of Business, Arizona State University. My research interests lie in production economics, farm financial and risk management, and applied econometrics.
+
+I completed my Ph.D. at NC State University and my M.S. at Texas A&M University.
+
+
+To learn more about my current and past research projects, feel free to contact me at:  
+**hongqiang dot yan [at] asu dot edu**  
+[Click here to email me](mailto:hongqiang.yan@asu.edu).
+
+[Download CV](https://hongqiangyan.github.io/files/Hongqiang_Yan_CV.pdf)
+
+
+## EDUCATION
+* Ph.D. in Economics, NC State University, 2018-2024
+ 
+## RESEARCH INTERESTS
+ * Production Economics
+ * Farm Financial and Risk Management
+ * Applied Econometrics
+
+## PEER-REVIEWED JOURNAL ARTICLES
+- **Yan, H., Manfredo, M., and Mishra, A. K. (2026).**  
+  Forecasting food price inflation using machine learning: An expansion based on FRED-MD.  
+  *Food Policy*, 140, 103077. https://doi.org/10.1016/j.foodpol.2026.103077.
+- **Chen, L., Rejesus, R. M., Yan, H., and Aglasan, S. (2026).**  
+  Lost ground, lost value: Investigating the relationship between soil erosion and agricultural land value.  
+  *American Journal of Agricultural Economics*. Advance online publication. https://doi.org/10.1002/ajae.70057
+
+- **Yan, H., Mishra, A. K., and Zhou, X. (2026).**  
+  Do all food and beverage firms benefit from voluntary ESG reporting? Evidence from China’s listed companies.  
+  *Agribusiness*, 42: 623-640. https://doi.org/10.1002/agr.70004
+- **Khanal, A. R., Mishra, A. K., Hazrana, J., and Yan, H. (2025).**  
+  Risk attitude, perception, management experience, and productivity: Evidence from a semiparametric approach and a less developed economy.  
+  *European Review of Agricultural Economics*, **52**(5), 1442–1468. https://doi.org/10.1093/erae/jbaf043
+
+
+
+## Working Papers  
+- **Hongqiang Yan**, Serkan Aglasan, Le Chen, Roderick Rejesus. *The Dual Damage from Soil Erosion: Lower Yields and Higher Risk in US Agriculture.* Conditionally accepted, *Journal of Agricultural and Resource Economics*.
+- Jiatong Li, **Hongqiang Yan**. *Uniform Inference in High-Dimensional Threshold Regression Models.*  
+  [Latest version](https://arxiv.org/abs/2404.08105v3)
+- Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Field Rotation Related Soil Productivity Changes, Yield Risk, and Efficiency in Crop Insurance Rating.* Revised and resubmitted, *Journal of the Agricultural and Applied Economics Association*.
+- **Hongqiang Yan**, Barry Goodwin, Mehmet Caner. *Global Maize Market Integration: A High-Dimensional Local Projection Approach with Mixed-Frequency Data and Regime Switching.* (Available upon request) 
+- **Hongqiang Yan**, Barry Goodwin, Ashok K. Mishra. *Detecting Structural Change in the Demand for Multiple Peril Crop Insurance.*  (Available upon request)  
+- **Hongqiang Yan**, Ashok K. Mishra, Jaweriah Hazrana. *Spatial Analysis of Modern Rice Varieties Technology on Production: Evidence from Panel Data in Bangladesh.*  (Available upon request)  
+- Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Extreme Climate, Financial Health, and Credit Default Risk: An American Landscape.*  (Available upon request)  
+- **Hongqiang Yan**, Mark Manfredo, Ashok K. Mishra. *How Economic News Drives Volatility in Commodity Markets.*  (Available upon request)
+
+
+
+
+## Work in Progress  
+
+* *Cost Functions Under Uncertainty: A Conditional Value-at-Risk Approach* (with Ashok K. Mishra)  
+
+* *Adaptation to Weather Shocks through Harvest Timing Adjustments: Evidence from Field-Level Data in the U.S.* (with Kenichi Kuroiwa, Ashok K. Mishra)  
