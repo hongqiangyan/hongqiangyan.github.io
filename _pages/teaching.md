@@ -14,10 +14,10 @@ redirect_from:
 - *International Management and Agribusiness*: Summer 2025, 2026  
 - Student Evaluations: 2025 -- **6.75/7.00** (35/46), **6.63/7.00** (41/68); 2026 -- **6.41/7.00** (26/50), **6.66/7.00** (27/64)  
   - Note: numbers in parentheses indicate response rates.
-  - [*"Course Evaluation Report 1"*](https://hongqiangyan.github.io/files/2264A_AGB 302.pdf)
-  - [*"Course Evaluation Report 2"*](https://hongqiangyan.github.io/files/2264B_AGB 302.pdf)
-  - [*"Course Evaluation Report 1"*](https://hongqiangyan.github.io/files/2254A_AGB 302.pdf)
-  - [*"Course Evaluation Report 2"*](https://hongqiangyan.github.io/files/2254B_AGB 302.pdf)
+  - [*"Course Evaluation Report 1"*](https://hongqiangyan.github.io/files/2264A_AGB_302.pdf)
+  - [*"Course Evaluation Report 2"*](https://hongqiangyan.github.io/files/2264B_AGB_302.pdf)
+  - [*"Course Evaluation Report 1"*](https://hongqiangyan.github.io/files/2254A_AGB_302.pdf)
+  - [*"Course Evaluation Report 2"*](https://hongqiangyan.github.io/files/2254B_AGB_302.pdf)
 
 **Department of Economics, NC State University**  
 - *Principles of Microeconomics*: Spring 2023  
