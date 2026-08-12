@@ -45,21 +45,5 @@ redirect_from:
 
 * *Adaptation to Weather Shocks through Harvest Timing Adjustments: Evidence from Field-Level Data in the U.S.* (with Kenichi Kuroiwa, Ashok K. Mishra)  
 
-## PEER-REVIEWED JOURNAL ARTICLES
-- **Yan, H., Manfredo, M., and Mishra, A. K. (2026).**  
-  Forecasting food price inflation using machine learning: An expansion based on FRED-MD.  
-  *Food Policy*, 140, 103077. https://doi.org/10.1016/j.foodpol.2026.103077.
-
-- **Chen, L., Rejesus, R. M., Yan, H., and Aglasan, S. (2026).**  
-  Lost ground, lost value: Investigating the relationship between soil erosion and agricultural land value.  
-  *American Journal of Agricultural Economics*. Advance online publication. https://doi.org/10.1002/ajae.70057
-
-- **Yan, H., Mishra, A. K., and Zhou, X. (2026).**  
-  Do all food and beverage firms benefit from voluntary ESG reporting? Evidence from China’s listed companies.  
-  *Agribusiness*, 42: 623-640. https://doi.org/10.1002/agr.70004
-
-- **Khanal, A. R., Mishra, A. K., Hazrana, J., and Yan, H. (2025).**  
-  Risk attitude, perception, management experience, and productivity: Evidence from a semiparametric approach and a less developed economy.  
-  *European Review of Agricultural Economics*, **52**(5), 1442–1468. https://doi.org/10.1093/erae/jbaf043
 
 
