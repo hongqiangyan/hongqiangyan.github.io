@@ -16,12 +16,11 @@ redirect_from:
   - Note: numbers in parentheses indicate response rates.
   - [*"Course Evaluation Report 1"*](https://hongqiangyan.github.io/files/2264A_AGB_302.pdf)
   - [*"Course Evaluation Report 2"*](https://hongqiangyan.github.io/files/2264B_AGB_302.pdf)
-  - [*"Course Evaluation Report 1"*](https://hongqiangyan.github.io/files/2254A_AGB_302.pdf)
-  - [*"Course Evaluation Report 2"*](https://hongqiangyan.github.io/files/2254B_AGB_302.pdf)
+  - [*"Course Evaluation Report 3"*](https://hongqiangyan.github.io/files/2254A_AGB_302.pdf)
+  - [*"Course Evaluation Report 4"*](https://hongqiangyan.github.io/files/2254B_AGB_302.pdf)
 
 **Department of Economics, NC State University**  
-- *Principles of Microeconomics*: Spring 2023  
-  - [*"Evidence of Teaching Effectiveness"*](https://hongqiangyan.github.io/files/Hongqiang_Students_Comments.pdf)
+- *Principles of Microeconomics*: Spring 2023
 
 ## Graduate Teaching Assistant
 
