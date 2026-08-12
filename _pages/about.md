@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 {% include base_path %}
-Hello, I’m Hongqiang Yan (严宏强), a Postdoctoral Research Scholar at the Morrison School of Agribusiness, W. P. Carey School of Business, Arizona State University. My research interests lie in production economics, farm financial and risk management, and applied econometrics.
+Hello, I’m Hongqiang Yan (严宏强), a Postdoctoral Research Scholar at the Morrison School of Agribusiness, W. P. Carey School of Business, Arizona State University. My research interests lie in agricultural economics, and applied econometrics.
 
 I completed my Ph.D. at NC State University and my M.S. at Texas A&M University.
 
@@ -24,9 +24,8 @@ To learn more about my current and past research projects, feel free to contact 
 * Ph.D. in Economics, NC State University, 2018-2024
  
 ## RESEARCH INTERESTS
- * Production Economics
- * Farm Financial and Risk Management
- * Applied Econometrics
+ * Agricultural Economics
+ * Econometrics
 
 ## PEER-REVIEWED JOURNAL ARTICLES
 - **Yan, H., Manfredo, M., and Mishra, A. K. (2026).**  
