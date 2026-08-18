@@ -26,6 +26,8 @@ To learn more about my current and past research projects, feel free to contact 
  * Econometrics
 
 ## PEER-REVIEWED JOURNAL ARTICLES
+- **Roznik, M., Mishra, A. K., and Yan, H. (2026).**  
+Annual changes in crop–field composition affect crop insurance ratings. Journal of the Agricultural and Applied Economics Association, Advance online publication. https://doi.org/10.1002/jaa2.70047
 - **Yan, H., Manfredo, M., and Mishra, A. K. (2026).**  
   Forecasting food price inflation using machine learning: An expansion based on FRED-MD.  
   *Food Policy*, 140, 103077. https://doi.org/10.1016/j.foodpol.2026.103077.
