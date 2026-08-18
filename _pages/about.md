@@ -26,28 +26,26 @@ To learn more about my current and past research projects, feel free to contact 
  * Econometrics
 
 ## PEER-REVIEWED JOURNAL ARTICLES
-- **Roznik, M., Mishra, A. K., and Yan, H. (2026).**  
-Annual changes in crop–field composition affect crop insurance ratings. Journal of the Agricultural and Applied Economics Association, Advance online publication. https://doi.org/10.1002/jaa2.70047
-- **Yan, H., Manfredo, M., and Mishra, A. K. (2026).**  
-  Forecasting food price inflation using machine learning: An expansion based on FRED-MD.  
-  *Food Policy*, 140, 103077. https://doi.org/10.1016/j.foodpol.2026.103077.
-- **Chen, L., Rejesus, R. M., Yan, H., and Aglasan, S. (2026).**  
-  Lost ground, lost value: Investigating the relationship between soil erosion and agricultural land value.  
-  *American Journal of Agricultural Economics*. Advance online publication. https://doi.org/10.1002/ajae.70057
+- **Roznik, M., Mishra, A. K., and Yan, H. (2026).**
+  Annual Changes in Crop–Field Composition Affect Crop Insurance Ratings. *Journal of the Agricultural and Applied Economics Association*, Advance online publication.[https://doi.org/10.1002/jaa2.70047](https://doi.org/10.1002/jaa2.70047)
+- **Yan, H., Manfredo, M..**
+  Forecasting Food Price Inflation Using Machine Learning: An Expansion Based
+on FRED-MD.
+  *Food Policy*, 140, 103077. [https://doi.org/10.1016/j.foodpol.2026.103077](
+https://doi.org/10.1016/j
+- **Chen, L., Rejesus, R. M., Yan, H., and Aglasan, S. (2026).**
+  Lost Ground, Lost Valueonship between Soil Erosion and Agricultural Land Value.
+  *American Journal of Agance online publication.[https://doi.org/10.1002/ajae.70057](https://doi.org/10.1002/ajae.70057)
 
-- **Yan, H., Mishra, A. K., and Zhou, X. (2026).**  
-  Do all food and beverage firms benefit from voluntary ESG reporting? Evidence from China’s listed companies.  
-  *Agribusiness*, 42: 623-640. https://doi.org/10.1002/agr.70004
-- **Khanal, A. R., Mishra, A. K., Hazrana, J., and Yan, H. (2025).**  
-  Risk attitude, perception, management experience, and productivity: Evidence from a semiparametric approach and a less developed economy.  
-  *European Review of Agricultural Economics*, **52**(5), 1442–1468. https://doi.org/10.1093/erae/jbaf043
+- **Yan, H., Mishra, A. K., and Zhou, X. (2026).**
+  Do All Food and Beveragtary ESG Reporting?Evidence from China's Listed Companies.
+  *Agribusiness*, 42: 623[https://doi.org/10.1002/agr.70004](https://doi.org/10.1002/agr.70004)
+- **Khanal, A. R., MishraYan, H. (2025).**
+  Risk Attitude, Perception, Management Experience, and Productivity: Evidence from a Semiparametric App Economy.
+  *European Review of Agricultural Economics*, **52**(5), 1442–1468.
+[https://doi.org/10.1093/org/10.1093/erae/jbaf043)
 
 
 ## SUBMITTED MANUSCRIPTS
-* **Hongqiang Yan**, Serkan Aglasan, Le Chen, Roderick Rejesus. *The Dual Damage from Soil Erosion: Lower Yields and Higher Risk in US Agriculture.* Conditionally accepted, *Journal of Agricultural and Resource Economics*.
-
-
-
-
-
-  
+* **Hongqiang Yan**, Serkick Rejesus. *The DualDamage from Soil Erosion: Lower Yields and Higher Risk in US Agriculture.*
+Conditionally accepted, *d Resource Economics*.
