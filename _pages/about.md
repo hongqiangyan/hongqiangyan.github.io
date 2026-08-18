@@ -41,3 +41,13 @@ Annual changes in crop–field composition affect crop insurance ratings. Journa
 - **Khanal, A. R., Mishra, A. K., Hazrana, J., and Yan, H. (2025).**  
   Risk attitude, perception, management experience, and productivity: Evidence from a semiparametric approach and a less developed economy.  
   *European Review of Agricultural Economics*, **52**(5), 1442–1468. https://doi.org/10.1093/erae/jbaf043
+
+
+## SUBMITTED MANUSCRIPTS
+* **Hongqiang Yan**, Serkan Aglasan, Le Chen, Roderick Rejesus. *The Dual Damage from Soil Erosion: Lower Yields and Higher Risk in US Agriculture.* Conditionally accepted, *Journal of Agricultural and Resource Economics*.
+
+
+
+
+
+  
