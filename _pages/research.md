@@ -37,7 +37,6 @@ redirect_from:
   [Supplementary Material](https://github.com/hongqiangyan/DTLasso)
 * **Hongqiang Yan**, Serkan Aglasan, Le Chen, Roderick Rejesus. *The Dual Damage from Soil Erosion: Lower Yields and Higher Risk in US Agriculture.* Conditionally accepted, *Journal of Agricultural and Resource Economics*.
 
-* Mitchell Roznik, Ashok K. Mishra, **Hongqiang Yan**. *Field Rotation Related Soil Productivity Changes, Yield Risk, and Efficiency in Crop Insurance Rating.* Revised and resubmitted, *Journal of the Agricultural and Applied Economics Association*.
 
 ## Work in Progress  
 
