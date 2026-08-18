@@ -31,7 +31,7 @@ To learn more about my current and past research projects, feel free to contact 
 - **Yan, H., Manfredo, M..**
   Forecasting Food Price Inflation Using Machine Learning: An Expansion Based
 on FRED-MD.
-  *Food Policy*, 140, 103077. [https://doi.org/10.1016/j.foodpol.2026.103077](https://doi.org/10.1016/j
+  *Food Policy*, 140, 103077. [https://doi.org/10.1016/j.foodpol.2026.103077](https://doi.org/10.1016/j.foodpol.2026.103077)
 - **Chen, L., Rejesus, R. M., Yan, H., and Aglasan, S. (2026).**
   Lost Ground, Lost Valueonship between Soil Erosion and Agricultural Land Value.
   *American Journal of Agance online publication. [https://doi.org/10.1002/ajae.70057](https://doi.org/10.1002/ajae.70057)
