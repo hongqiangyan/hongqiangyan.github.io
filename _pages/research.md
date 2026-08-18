@@ -35,7 +35,7 @@ redirect_from:
 * Jiatong Li, **Hongqiang Yan**.   *Uniform Inference in High-Dimensional Threshold Regression Models.*  
   [Latest version](https://arxiv.org/abs/2404.08105)  
   [Supplementary Material](https://github.com/hongqiangyan/DTLasso)
-* **Hongqiang Yan**, Serkan Aglasan, Le Chen, Roderick Rejesus. *The Dual Damage from Soil Erosion: Lower Yields and Higher Risk in US Agriculture.* Conditionally accepted, *Journal of Agricultural and Resource Economics*.
+
 
 
 ## Work in Progress  
